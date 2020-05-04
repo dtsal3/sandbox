@@ -1,0 +1,1827 @@
+,Name,OvPck,Pos,RdPck,Rnd,Tm,Type,WAR,Year
+0,Mike Ivie,1.0,C,1.0,1.0,Padres,HS,7.3,1970.0
+1,Steve Dunning,2.0,RHP,2.0,1.0,Indians,4Yr,1.9,1970.0
+2,Barry Foote,3.0,C,3.0,1.0,Expos,HS,3.5,1970.0
+3,Darrell Porter,4.0,C,4.0,1.0,Brewers,HS,40.8,1970.0
+4,Mike Martin,5.0,LHP,5.0,1.0,Phillies,HS,0.0,1970.0
+5,Lee Richard,6.0,SS,6.0,1.0,White Sox,4Yr,-1.3,1970.0
+6,Randy Scarbery,7.0,RHP,7.0,1.0,Astros,HS,0.7,1970.0
+7,Rex Goodson,8.0,C,8.0,1.0,Royals,HS,0.0,1970.0
+8,Jim Haller,9.0,RHP,9.0,1.0,Dodgers,HS,0.0,1970.0
+9,Paul Dade,10.0,3B,10.0,1.0,Angels,HS,1.2,1970.0
+10,Jim Browning,11.0,RHP,11.0,1.0,Cardinals,HS,0.0,1970.0
+11,Dave Cheadle,12.0,LHP,12.0,1.0,Yankees,HS,-0.3,1970.0
+12,John Bedard,13.0,RHP,13.0,1.0,Pirates,HS,0.0,1970.0
+13,Chip Maxwell,14.0,3B,14.0,1.0,Senators,HS,0.0,1970.0
+14,Gary Polczynski,15.0,SS,15.0,1.0,Reds,HS,0.0,1970.0
+15,Jimmie Hacker,16.0,3B,16.0,1.0,Red Sox,HS,0.0,1970.0
+16,John D'Acquisto,17.0,RHP,17.0,1.0,Giants,HS,-1.1,1970.0
+17,Dan Ford,18.0,OF,18.0,1.0,Athletics,HS,11.7,1970.0
+18,Gene Hiser,19.0,OF,19.0,1.0,Cubs,4Yr,-1.9,1970.0
+19,Terry Mappin,20.0,C,20.0,1.0,Tigers,HS,0.0,1970.0
+20,Ron Broaddus,21.0,RHP,21.0,1.0,Braves,HS,0.0,1970.0
+21,Bob Gorinski,22.0,SS,22.0,1.0,Twins,HS,-0.6,1970.0
+22,George Ambrow,23.0,SS,23.0,1.0,Mets,HS,0.0,1970.0
+23,James West,24.0,C,24.0,1.0,Orioles,HS,0.0,1970.0
+24,Dan Spillner,25.0,RHP,1.0,2.0,Padres,HS,9.2,1970.0
+25,Bill Flowers,26.0,OF,2.0,2.0,Indians,HS,0.0,1970.0
+26,Chip Lang,27.0,RHP,3.0,2.0,Expos,HS,0.1,1970.0
+27,Ken Pape,28.0,SS,4.0,2.0,Brewers,HS,0.3,1970.0
+28,Roger Choate,29.0,C,5.0,2.0,Phillies,HS,0.0,1970.0
+29,Terry Forster,30.0,LHP,6.0,2.0,White Sox,HS,20.7,1970.0
+30,Alton Williams,31.0,SS,7.0,2.0,Astros,HS,0.0,1970.0
+31,John Johnson,32.0,SS,8.0,2.0,Royals,HS,0.0,1970.0
+32,Randy Fairbanks,33.0,LHP,9.0,2.0,Dodgers,HS,0.0,1970.0
+33,Dan Briggs,34.0,LHP,10.0,2.0,Angels,HS,-3.5,1970.0
+34,Ron Kinner,35.0,C,11.0,2.0,Cardinals,HS,0.0,1970.0
+35,Richard Earle,36.0,RHP,12.0,2.0,Yankees,HS,0.0,1970.0
+36,Kenneth Waiss,37.0,RHP,13.0,2.0,Pirates,HS,0.0,1970.0
+37,Art DeFilippis,38.0,LHP,14.0,2.0,Senators,HS,0.0,1970.0
+38,Rex Jackson,39.0,RHP,15.0,2.0,Reds,HS,0.0,1970.0
+39,Fred Wegner,40.0,OF,16.0,2.0,Red Sox,HS,0.0,1970.0
+40,Butch Metzger,41.0,RHP,17.0,2.0,Giants,HS,1.3,1970.0
+41,Dale Holland,42.0,2B,18.0,2.0,Athletics,HS,0.0,1970.0
+42,Dyain Frazier,43.0,LHP,19.0,2.0,Cubs,HS,0.0,1970.0
+43,Mike Ibarguen,44.0,RHP,20.0,2.0,Tigers,HS,0.0,1970.0
+44,Adrian Devine,45.0,RHP,21.0,2.0,Braves,HS,2.7,1970.0
+45,Mark Wiley,46.0,RHP,22.0,2.0,Twins,4Yr,-1.2,1970.0
+46,Gary Nevinger,47.0,RHP,23.0,2.0,Mets,HS,0.0,1970.0
+47,Michael Satterlee,48.0,C,24.0,2.0,Orioles,HS,0.0,1970.0
+48,Danny Goodwin,1.0,C,1.0,1.0,White Sox,HS,-1.7,1971.0
+49,Jay Franklin,2.0,RHP,2.0,1.0,Padres,HS,-0.2,1971.0
+50,Tommy Bianco,3.0,SS,3.0,1.0,Brewers,HS,-0.2,1971.0
+51,Condredge Holloway,4.0,SS,4.0,1.0,Expos,HS,0.0,1971.0
+52,Roy Branch,5.0,RHP,5.0,1.0,Royals,HS,-0.3,1971.0
+53,Roy Thomas,6.0,RHP,6.0,1.0,Phillies,HS,3.2,1971.0
+54,Roger Quiroga,7.0,RHP,7.0,1.0,Senators,HS,0.0,1971.0
+55,Ed Kurpiel,8.0,1B,8.0,1.0,Cardinals,HS,0.0,1971.0
+56,David Sloan,9.0,RHP,9.0,1.0,Indians,HS,0.0,1971.0
+57,Taylor Duncan,10.0,SS,10.0,1.0,Braves,HS,0.0,1971.0
+58,Tom Veryzer,11.0,SS,11.0,1.0,Tigers,HS,-3.7,1971.0
+59,Neil Rasmussen,12.0,SS,12.0,1.0,Astros,HS,0.0,1971.0
+60,Frank Tanana,13.0,LHP,13.0,1.0,Angels,HS,57.9,1971.0
+61,Rich Puig,14.0,2B,14.0,1.0,Mets,HS,-0.4,1971.0
+62,Jim Rice,15.0,OF,15.0,1.0,Red Sox,HS,47.4,1971.0
+63,Jeff Wehmeier,16.0,RHP,16.0,1.0,Cubs,HS,0.0,1971.0
+64,William Daniels,17.0,RHP,17.0,1.0,Athletics,HS,0.0,1971.0
+65,Frank Riccelli,18.0,LHP,18.0,1.0,Giants,HS,0.2,1971.0
+66,Terry Whitfield,19.0,OF,19.0,1.0,Yankees,HS,5.9,1971.0
+67,Rick Rhoden,20.0,RHP,20.0,1.0,Dodgers,HS,35.9,1971.0
+68,Dale Soderholm,21.0,SS,21.0,1.0,Twins,HS,0.0,1971.0
+69,Craig Reynolds,22.0,SS,22.0,1.0,Pirates,HS,13.2,1971.0
+70,Randy Stein,23.0,RHP,23.0,1.0,Orioles,HS,-2.4,1971.0
+71,Mike Miley,24.0,SS,24.0,1.0,Reds,HS,-0.9,1971.0
+72,Bill Sharp,25.0,OF,1.0,2.0,White Sox,4Yr,2.0,1971.0
+73,Willie Boynton,26.0,RHP,2.0,2.0,Padres,HS,0.0,1971.0
+74,Larry Anderson,27.0,RHP,3.0,2.0,Brewers,HS,-0.5,1971.0
+75,Dan Warthen,28.0,LHP,4.0,2.0,Expos,HS,0.6,1971.0
+76,George Brett,29.0,SS,5.0,2.0,Royals,HS,88.4,1971.0
+77,Mike Schmidt,30.0,SS,6.0,2.0,Phillies,4Yr,106.5,1971.0
+78,William Amason,31.0,RHP,7.0,2.0,Senators,HS,0.0,1971.0
+79,Gary Christophel,32.0,LHP,8.0,2.0,Cardinals,HS,0.0,1971.0
+80,Jim Umbarger,33.0,LHP,9.0,2.0,Indians,HS,2.1,1971.0
+81,Jamie Easterly,34.0,LHP,10.0,2.0,Braves,HS,1.4,1971.0
+82,Dennis DeBarr,35.0,LHP,11.0,2.0,Tigers,HS,0.0,1971.0
+83,Art Gardner,36.0,LHP,12.0,2.0,Astros,HS,-0.9,1971.0
+84,Ron Jackson,37.0,3B,13.0,2.0,Angels,HS,7.2,1971.0
+85,James Kidder,38.0,2B,14.0,2.0,Mets,HS,0.0,1971.0
+86,Milt Jefferson,39.0,3B,15.0,2.0,Red Sox,HS,0.0,1971.0
+87,Steven Haug,40.0,C,16.0,2.0,Cubs,HS,0.0,1971.0
+88,Ron Williamson,41.0,OF,17.0,2.0,Athletics,HS,0.0,1971.0
+89,Tony Pepper,42.0,1B,18.0,2.0,Giants,HS,0.0,1971.0
+90,Stephen Lindsey,43.0,3B,19.0,2.0,Yankees,HS,0.0,1971.0
+91,Greg Reinecker,44.0,RHP,20.0,2.0,Dodgers,HS,0.0,1971.0
+92,Michael Uremovich,45.0,C,21.0,2.0,Twins,HS,0.0,1971.0
+93,Doug Bair,46.0,RHP,22.0,2.0,Pirates,4Yr,6.9,1971.0
+94,Steve Patterson,47.0,RHP,23.0,2.0,Orioles,HS,0.0,1971.0
+95,William Covert,48.0,1B,24.0,2.0,Reds,HS,0.0,1971.0
+96,Dave Roberts,1.0,3B,1.0,1.0,Padres,4Yr,0.4,1972.0
+97,Rick Manning,2.0,SS,2.0,1.0,Indians,HS,11.7,1972.0
+98,Larry Christenson,3.0,RHP,3.0,1.0,Phillies,HS,10.6,1972.0
+99,Roy Howell,4.0,3B,4.0,1.0,Rangers,HS,10.9,1972.0
+100,Bobby Goodman,5.0,C,5.0,1.0,Expos,HS,0.0,1972.0
+101,Dan Thomas,6.0,1B,6.0,1.0,Brewers,4Yr,0.8,1972.0
+102,Larry Payne,7.0,RHP,7.0,1.0,Reds,HS,0.0,1972.0
+103,Dick Ruthven,8.0,RHP,8.0,1.0,Twins,4Yr,18.6,1972.0
+104,Steve Englishbey,9.0,OF,9.0,1.0,Astros,HS,0.0,1972.0
+105,Dave Chalk,10.0,3B,10.0,1.0,Angels,4Yr,8.4,1972.0
+106,Preston Hanna,11.0,RHP,11.0,1.0,Braves,HS,1.8,1972.0
+107,Mike Ondina,12.0,OF,12.0,1.0,White Sox,HS,0.0,1972.0
+108,Richard Bengston,13.0,C,13.0,1.0,Mets,HS,0.0,1972.0
+109,Scott McGregor,14.0,LHP,14.0,1.0,Yankees,HS,20.4,1972.0
+110,Brian Vernoy,15.0,LHP,15.0,1.0,Cubs,HS,0.0,1972.0
+111,Joel Bishop,16.0,SS,16.0,1.0,Red Sox,HS,0.0,1972.0
+112,John Harbin,17.0,SS,17.0,1.0,Dodgers,4Yr,0.0,1972.0
+113,Jamie Quirk,18.0,SS,18.0,1.0,Royals,HS,0.8,1972.0
+114,Rob Dressler,19.0,RHP,19.0,1.0,Giants,HS,2.5,1972.0
+115,Jerry Manuel,20.0,SS,20.0,1.0,Tigers,HS,-0.6,1972.0
+116,Dan Larson,21.0,RHP,21.0,1.0,Cardinals,HS,-0.7,1972.0
+117,Chet Lemon,22.0,SS,22.0,1.0,Athletics,HS,55.5,1972.0
+118,Dwayne Peltier,23.0,SS,23.0,1.0,Pirates,HS,0.0,1972.0
+119,Ken Thomas,24.0,C,24.0,1.0,Orioles,HS,0.0,1972.0
+120,Mike Allen,25.0,RHP,1.0,2.0,Padres,HS,0.0,1972.0
+121,Bob Grossman,26.0,RHP,2.0,2.0,Indians,4Yr,0.0,1972.0
+122,Tom Underwood,27.0,LHP,3.0,2.0,Phillies,HS,10.5,1972.0
+123,Ron Pruitt,28.0,C,4.0,2.0,Rangers,4Yr,-0.1,1972.0
+124,Ellis Valentine,29.0,C,5.0,2.0,Expos,HS,17.0,1972.0
+125,Jerry Mantlo,30.0,C,6.0,2.0,Brewers,4Yr,0.0,1972.0
+126,Randy Wallace,31.0,3B,7.0,2.0,Reds,HS,0.0,1972.0
+127,Clay Westlake,32.0,C,8.0,2.0,Twins,HS,0.0,1972.0
+128,Stan Floyd,33.0,C,9.0,2.0,Astros,HS,0.0,1972.0
+129,Bruce Bochte,34.0,1B,10.0,2.0,Angels,4Yr,19.3,1972.0
+130,George Lusic,35.0,RHP,11.0,2.0,Braves,HS,0.0,1972.0
+131,Cleo Kilpatrick,36.0,OF,12.0,2.0,White Sox,HS,0.0,1972.0
+132,Craig Skoglund,37.0,OF,13.0,2.0,Mets,HS,0.0,1972.0
+133,Ken Clay,38.0,RHP,14.0,2.0,Yankees,HS,-1.2,1972.0
+134,Clifford Hall,39.0,OF,15.0,2.0,Cubs,HS,0.0,1972.0
+135,Steve Dillard,40.0,SS,16.0,2.0,Red Sox,4Yr,-1.3,1972.0
+136,Cleo Smith,41.0,1B,17.0,2.0,Dodgers,HS,0.0,1972.0
+137,Dennis Leonard,42.0,RHP,18.0,2.0,Royals,4Yr,26.3,1972.0
+138,Bob Knepper,43.0,LHP,19.0,2.0,Giants,HS,22.1,1972.0
+139,John Valle,44.0,3B,20.0,2.0,Tigers,HS,0.0,1972.0
+140,Gary Blackwell,45.0,SS,21.0,2.0,Cardinals,HS,0.0,1972.0
+141,Garret Strong,46.0,OF,22.0,2.0,Athletics,HS,0.0,1972.0
+142,John Candelaria,47.0,LHP,23.0,2.0,Pirates,HS,42.4,1972.0
+143,John O'Rear,48.0,SS,24.0,2.0,Orioles,HS,0.0,1972.0
+144,David Clyde,1.0,LHP,1.0,1.0,Rangers,HS,0.8,1973.0
+145,John Stearns,2.0,C,2.0,1.0,Phillies,4Yr,19.6,1973.0
+146,Robin Yount,3.0,SS,3.0,1.0,Brewers,HS,77.0,1973.0
+147,Dave Winfield,4.0,RHP,4.0,1.0,Padres,4Yr,63.8,1973.0
+148,Glenn Tufts,5.0,INF,5.0,1.0,Indians,HS,0.0,1973.0
+149,Johnnie LeMaster,6.0,SS,6.0,1.0,Giants,HS,-5.4,1973.0
+150,Billy Taylor,7.0,OF,7.0,1.0,Angels,HS,0.0,1973.0
+151,Gary Roenicke,8.0,SS,8.0,1.0,Expos,HS,15.5,1973.0
+152,Lew Olsen,9.0,RHP,9.0,1.0,Royals,HS,0.0,1973.0
+153,Pat Rockett,10.0,2B,10.0,1.0,Braves,HS,-5.5,1973.0
+154,Eddie Bane,11.0,LHP,11.0,1.0,Twins,4Yr,-0.9,1973.0
+155,Joe Edelen,12.0,3B,12.0,1.0,Cardinals,HS,-0.8,1973.0
+156,Doug Heinhold,13.0,RHP,13.0,1.0,Yankees,HS,0.0,1973.0
+157,Lee Mazzilli,14.0,OF,14.0,1.0,Mets,HS,15.6,1973.0
+158,Mike Parrott,15.0,RHP,15.0,1.0,Orioles,HS,2.1,1973.0
+159,Jerry Tabb,16.0,1B,16.0,1.0,Cubs,4Yr,-0.8,1973.0
+160,Ted Cox,17.0,SS,17.0,1.0,Red Sox,HS,-1.5,1973.0
+161,Ted Farr,18.0,C,18.0,1.0,Dodgers,HS,0.0,1973.0
+162,Charles Bates,19.0,3B,19.0,1.0,Tigers,4Yr,0.0,1973.0
+163,Calvin Portley,20.0,SS,20.0,1.0,Astros,HS,0.0,1973.0
+164,Steve Swisher,21.0,C,21.0,1.0,White Sox,4Yr,-1.9,1973.0
+165,Bradford Kessler,22.0,OF,22.0,1.0,Reds,HS,0.0,1973.0
+166,Randy Scarbery,23.0,RHP,23.0,1.0,Athletics,4Yr,0.7,1973.0
+167,Steve Nicosia,24.0,C,24.0,1.0,Pirates,HS,1.2,1973.0
+168,Rich Shubert,25.0,LHP,1.0,2.0,Rangers,HS,0.0,1973.0
+169,Todd Cruz,26.0,SS,2.0,2.0,Phillies,HS,0.5,1973.0
+170,Joe Slaymaker,27.0,LHP,3.0,2.0,Brewers,HS,0.0,1973.0
+171,Mike Champion,28.0,SS,4.0,2.0,Padres,HS,-2.1,1973.0
+172,Tom McMillan,29.0,INF,5.0,2.0,Indians,4Yr,-0.2,1973.0
+173,Ernest Young,30.0,C,6.0,2.0,Giants,HS,0.0,1973.0
+174,Bruce Tonascia,31.0,OF,7.0,2.0,Angels,HS,0.0,1973.0
+175,Pat Creech,32.0,SS,8.0,2.0,Expos,4Yr,0.0,1973.0
+176,Brian Trifiolis,33.0,C,9.0,2.0,Royals,HS,0.0,1973.0
+177,Steve Stone,34.0,C,10.0,2.0,Braves,HS,0.0,1973.0
+178,Edward McMahon,35.0,SS,11.0,2.0,Twins,4Yr,0.0,1973.0
+179,Ron Selak,36.0,RHP,12.0,2.0,Cardinals,HS,0.0,1973.0
+180,Mike Heath,37.0,SS,13.0,2.0,Yankees,HS,13.4,1973.0
+181,Jackson Todd,38.0,RHP,14.0,2.0,Mets,4Yr,1.6,1973.0
+182,Jerry Guinn,39.0,RHP,15.0,2.0,Orioles,HS,0.0,1973.0
+183,Darrell Turner,40.0,RHP,16.0,2.0,Cubs,HS,0.0,1973.0
+184,Fred Lynn,41.0,OF,17.0,2.0,Red Sox,4Yr,50.0,1973.0
+185,Mike Paciorek,42.0,SS,18.0,2.0,Dodgers,HS,0.0,1973.0
+186,Kevin Slattery,43.0,SS,19.0,2.0,Tigers,HS,0.0,1973.0
+187,Scott Gregory,44.0,RHP,20.0,2.0,Astros,HS,0.0,1973.0
+188,Jim Otten,45.0,RHP,21.0,2.0,White Sox,4Yr,-2.0,1973.0
+189,Richard Jensen,46.0,LHP,22.0,2.0,Reds,HS,0.0,1973.0
+190,James Tuttle,47.0,RHP,23.0,2.0,Athletics,HS,0.0,1973.0
+191,Douglas Nelson,48.0,LHP,24.0,2.0,Pirates,JC,0.0,1973.0
+192,Bill Almon,1.0,SS,1.0,1.0,Padres,4Yr,4.8,1974.0
+193,Tommy Boggs,2.0,RHP,2.0,1.0,Rangers,HS,2.4,1974.0
+194,Lonnie Smith,3.0,OF,3.0,1.0,Phillies,HS,38.4,1974.0
+195,Tom Brennan,4.0,RHP,4.0,1.0,Indians,4Yr,0.9,1974.0
+196,Dale Murphy,5.0,C,5.0,1.0,Braves,HS,46.2,1974.0
+197,Butch Edge,6.0,RHP,6.0,1.0,Brewers,HS,0.1,1974.0
+198,Scot Thompson,7.0,OF,7.0,1.0,Cubs,HS,-5.5,1974.0
+199,Larry Monroe,8.0,RHP,8.0,1.0,White Sox,HS,0.1,1974.0
+200,Ron Sorey,9.0,3B,9.0,1.0,Expos,HS,0.0,1974.0
+201,Mike Miley,10.0,SS,10.0,1.0,Angels,4Yr,-0.9,1974.0
+202,Rod Scurry,11.0,LHP,11.0,1.0,Pirates,HS,5.8,1974.0
+203,Dennis Sherrill,12.0,SS,12.0,1.0,Yankees,HS,-0.1,1974.0
+204,Garry Templeton,13.0,SS,13.0,1.0,Cardinals,HS,27.6,1974.0
+205,Ted Shipley,14.0,SS,14.0,1.0,Twins,4Yr,0.0,1974.0
+206,Kevin Drake,15.0,OF,15.0,1.0,Astros,HS,0.0,1974.0
+207,Lance Parrish,16.0,INF,16.0,1.0,Tigers,HS,39.3,1974.0
+208,Cliff Speck,17.0,RHP,17.0,1.0,Mets,HS,0.3,1974.0
+209,Willie Wilson,18.0,OF,18.0,1.0,Royals,HS,46.0,1974.0
+210,Terry Lee,19.0,2B,19.0,1.0,Giants,HS,0.0,1974.0
+211,Eddie Ford,20.0,SS,20.0,1.0,Red Sox,4Yr,0.0,1974.0
+212,Rick Sutcliffe,21.0,RHP,21.0,1.0,Dodgers,HS,34.3,1974.0
+213,Jerry Johnson,22.0,C,22.0,1.0,Athletics,HS,0.0,1974.0
+214,Steve Reed,23.0,RHP,23.0,1.0,Reds,HS,0.0,1974.0
+215,Rich Dauer,24.0,SS,24.0,1.0,Orioles,4Yr,14.4,1974.0
+216,Donnie Alfano,25.0,1B,1.0,2.0,Padres,HS,0.0,1974.0
+217,Jeff Byrd,26.0,RHP,2.0,2.0,Rangers,HS,-1.1,1974.0
+218,Kevin Saucier,27.0,LHP,3.0,2.0,Phillies,HS,2.3,1974.0
+219,Rickey Howerton,28.0,C,4.0,2.0,Indians,HS,0.0,1974.0
+220,Joey McLaughlin,29.0,RHP,5.0,2.0,Braves,HS,4.7,1974.0
+221,Moose Haas,30.0,RHP,6.0,2.0,Brewers,HS,17.6,1974.0
+222,Mike Sember,31.0,SS,7.0,2.0,Cubs,4Yr,-0.1,1974.0
+223,Jack Kucek,32.0,RHP,8.0,2.0,White Sox,4Yr,-1.4,1974.0
+224,Jerry Fry,33.0,SS,9.0,2.0,Expos,HS,-0.4,1974.0
+225,Marty Martinson,34.0,C,10.0,2.0,Angels,HS,0.0,1974.0
+226,Gary Hargis,35.0,INF,11.0,2.0,Pirates,HS,0.0,1974.0
+227,Dave Bergman,36.0,1B,12.0,2.0,Yankees,4Yr,7.0,1974.0
+228,Robert Hrapman,37.0,SS,13.0,2.0,Cardinals,4Yr,0.0,1974.0
+229,Butch Wynegar,38.0,C,14.0,2.0,Twins,HS,26.3,1974.0
+230,Jeff Smith,39.0,SS,15.0,2.0,Astros,HS,0.0,1974.0
+231,James Taylor,40.0,LHP,16.0,2.0,Tigers,HS,0.0,1974.0
+232,Dwight Bernard,41.0,RHP,17.0,2.0,Mets,4Yr,-0.4,1974.0
+233,Bobby Edmondson,42.0,C,18.0,2.0,Royals,HS,0.0,1974.0
+234,Kenny Kolkhorst,43.0,C,19.0,2.0,Giants,HS,0.0,1974.0
+235,Jimmy Schankle,44.0,C,20.0,2.0,Red Sox,HS,0.0,1974.0
+236,Steve Shirley,45.0,LHP,21.0,2.0,Dodgers,HS,0.1,1974.0
+237,Jim Loftin,46.0,LHP,22.0,2.0,Athletics,HS,0.0,1974.0
+238,Mike Grace,47.0,3B,23.0,2.0,Reds,HS,0.0,1974.0
+239,Craig Ryan,48.0,1B,24.0,2.0,Orioles,4Yr,0.0,1974.0
+240,Danny Goodwin,1.0,C,1.0,1.0,Angels,4Yr,-1.7,1975.0
+241,Mike Lentz,2.0,LHP,2.0,1.0,Padres,HS,0.0,1975.0
+242,Les Filkins,3.0,OF,3.0,1.0,Tigers,HS,0.0,1975.0
+243,Brian Rosinski,4.0,OF,4.0,1.0,Cubs,HS,0.0,1975.0
+244,Rick O'Keeffe,5.0,LHP,5.0,1.0,Brewers,HS,0.0,1975.0
+245,Butch Benton,6.0,C,6.0,1.0,Mets,HS,-0.9,1975.0
+246,Rick Cerone,7.0,C,7.0,1.0,Indians,4Yr,8.1,1975.0
+247,Ted Barnicle,8.0,LHP,8.0,1.0,Giants,4Yr,0.0,1975.0
+248,Clint Hurdle,9.0,OF,9.0,1.0,Royals,HS,2.8,1975.0
+249,Art Miles,10.0,SS,10.0,1.0,Expos,HS,0.0,1975.0
+250,Chris Knapp,11.0,RHP,11.0,1.0,White Sox,4Yr,0.4,1975.0
+251,Sammye Welborn,12.0,RHP,12.0,1.0,Phillies,HS,0.0,1975.0
+252,Rick Sofield,13.0,SS,13.0,1.0,Twins,HS,-0.7,1975.0
+253,Bo McLaughlin,14.0,RHP,14.0,1.0,Astros,4Yr,-3.0,1975.0
+254,Otis Foster,15.0,1B,15.0,1.0,Red Sox,4Yr,0.0,1975.0
+255,David Johnson,16.0,LHP,16.0,1.0,Cardinals,HS,0.0,1975.0
+256,Jim Gideon,17.0,RHP,17.0,1.0,Rangers,4Yr,-0.2,1975.0
+257,Donald Young,18.0,C,18.0,1.0,Braves,HS,0.0,1975.0
+258,Jim McDonald,19.0,1B,19.0,1.0,Yankees,HS,0.0,1975.0
+259,Dale Berra,20.0,SS,20.0,1.0,Pirates,HS,5.4,1975.0
+260,Bruce Robinson,21.0,C,21.0,1.0,Athletics,4Yr,-0.4,1975.0
+261,Tony Moretto,22.0,OF,22.0,1.0,Reds,HS,0.0,1975.0
+262,Dave Ford,23.0,RHP,23.0,1.0,Orioles,HS,1.0,1975.0
+263,Mark Bradley,24.0,SS,24.0,1.0,Dodgers,HS,-0.1,1975.0
+264,Jim Anderson,25.0,SS,1.0,2.0,Angels,HS,1.0,1975.0
+265,Harold Drake,26.0,SS,2.0,2.0,Padres,HS,0.0,1975.0
+266,John Murphy,27.0,LHP,3.0,2.0,Tigers,HS,0.0,1975.0
+267,Lee Smith,28.0,RHP,4.0,2.0,Cubs,HS,29.6,1975.0
+268,Charles Ross,29.0,C,5.0,2.0,Brewers,HS,0.0,1975.0
+269,Rod Boxberger,30.0,RHP,6.0,2.0,Mets,HS,0.0,1975.0
+270,Daniel Skiba,31.0,RHP,7.0,2.0,Indians,HS,0.0,1975.0
+271,Richard Bradley,32.0,C,8.0,2.0,Giants,4Yr,0.0,1975.0
+272,Pat Gillie,33.0,RHP,9.0,2.0,Royals,HS,0.0,1975.0
+273,Dale McMullen,34.0,OF,10.0,2.0,Expos,HS,0.0,1975.0
+274,Mitch Lukevics,35.0,RHP,11.0,2.0,White Sox,4Yr,0.0,1975.0
+275,Joe Jones,36.0,C,12.0,2.0,Phillies,HS,0.0,1975.0
+276,Stephen Parrott,37.0,RHP,13.0,2.0,Twins,HS,0.0,1975.0
+277,Ed Andersen,38.0,RHP,14.0,2.0,Astros,HS,0.0,1975.0
+278,Dave Schmidt,39.0,C,15.0,2.0,Red Sox,HS,0.3,1975.0
+279,Kelly Paris,40.0,SS,16.0,2.0,Cardinals,HS,-1.0,1975.0
+280,Eddie Miller,41.0,OF,17.0,2.0,Rangers,HS,-0.1,1975.0
+281,Larry Whisenton,42.0,OF,18.0,2.0,Braves,HS,0.5,1975.0
+282,Benny Lloyd,43.0,OF,19.0,2.0,Yankees,HS,0.0,1975.0
+283,Jeffrey Pinkus,44.0,RHP,20.0,2.0,Pirates,HS,0.0,1975.0
+284,Greg Cochran,45.0,RHP,21.0,2.0,Athletics,4Yr,0.0,1975.0
+285,Frank Pastore,46.0,RHP,22.0,2.0,Reds,HS,4.0,1975.0
+286,John Dyer,47.0,LHP,23.0,2.0,Orioles,HS,0.0,1975.0
+287,Myron White,48.0,OF,24.0,2.0,Dodgers,HS,0.0,1975.0
+288,Floyd Bannister,1.0,LHP,1.0,1.0,Astros,4Yr,26.9,1976.0
+289,Pat Underwood,2.0,LHP,2.0,1.0,Tigers,HS,1.0,1976.0
+290,Ken Smith,3.0,3B,3.0,1.0,Braves,HS,0.3,1976.0
+291,Bill Bordley,4.0,LHP,4.0,1.0,Brewers,HS,-0.1,1976.0
+292,Bob Owchinko,5.0,LHP,5.0,1.0,Padres,4Yr,2.1,1976.0
+293,Ken Landreaux,6.0,OF,6.0,1.0,Angels,4Yr,10.4,1976.0
+294,Herman Segelke,7.0,RHP,7.0,1.0,Cubs,HS,-0.1,1976.0
+295,Steve Trout,8.0,LHP,8.0,1.0,White Sox,HS,13.5,1976.0
+296,Bob James,9.0,RHP,9.0,1.0,Expos,HS,2.4,1976.0
+297,Jamie Allen,10.0,3B,10.0,1.0,Twins,HS,-0.4,1976.0
+298,Mark Kuecker,11.0,SS,11.0,1.0,Giants,HS,0.0,1976.0
+299,Billy Simpson,12.0,OF,12.0,1.0,Rangers,HS,0.0,1976.0
+300,Tom Thurberg,13.0,OF,13.0,1.0,Mets,HS,0.0,1976.0
+301,Tim Glass,14.0,C,14.0,1.0,Indians,HS,0.0,1976.0
+302,Leon Durham,15.0,1B,15.0,1.0,Cardinals,HS,16.1,1976.0
+303,Pat Tabler,16.0,OF,16.0,1.0,Yankees,HS,3.0,1976.0
+304,Jeff Kraus,17.0,SS,17.0,1.0,Phillies,HS,0.0,1976.0
+305,Ben Grzybek,18.0,RHP,18.0,1.0,Royals,HS,0.0,1976.0
+306,Mike Scioscia,19.0,C,19.0,1.0,Dodgers,HS,26.0,1976.0
+307,Dallas Williams,20.0,OF,20.0,1.0,Orioles,HS,-0.6,1976.0
+308,Jim Parke,21.0,RHP,21.0,1.0,Pirates,HS,0.0,1976.0
+309,Bruce Hurst,22.0,LHP,22.0,1.0,Red Sox,HS,34.8,1976.0
+310,Mark King,23.0,RHP,23.0,1.0,Reds,HS,0.0,1976.0
+311,Thomas Sullivan,24.0,RHP,24.0,1.0,Athletics,HS,0.0,1976.0
+312,Philip Klimas,25.0,3B,1.0,2.0,Astros,4Yr,0.0,1976.0
+313,Alan Trammell,26.0,SS,2.0,2.0,Tigers,HS,70.4,1976.0
+314,Dom Chiti,27.0,LHP,3.0,2.0,Braves,HS,0.0,1976.0
+315,Melvin Manning,28.0,SS,4.0,2.0,Brewers,HS,0.0,1976.0
+316,Steve Mura,29.0,RHP,5.0,2.0,Padres,4Yr,1.2,1976.0
+317,Bob Ferris,30.0,RHP,6.0,2.0,Angels,4Yr,-0.1,1976.0
+318,Buddy Lowe,31.0,RHP,7.0,2.0,Cubs,HS,0.0,1976.0
+319,Mike Colbern,32.0,C,8.0,2.0,White Sox,4Yr,0.1,1976.0
+320,Dennis Sherow,33.0,RHP,9.0,2.0,Expos,4Yr,0.0,1976.0
+321,Terry Felton,34.0,RHP,10.0,2.0,Twins,HS,-1.9,1976.0
+322,Thomas Hawk,35.0,RHP,11.0,2.0,Giants,HS,0.0,1976.0
+323,Steve Finch,36.0,RHP,12.0,2.0,Rangers,HS,0.0,1976.0
+324,Mike Scott,37.0,RHP,13.0,2.0,Mets,4Yr,22.8,1976.0
+325,Sam Spence,38.0,RHP,14.0,2.0,Indians,HS,0.0,1976.0
+326,Walt Pierce,39.0,3B,15.0,2.0,Cardinals,HS,0.0,1976.0
+327,Calvin Riggar,40.0,LHP,16.0,2.0,Yankees,HS,0.0,1976.0
+328,Eddie Williams,41.0,C,17.0,2.0,Phillies,HS,0.0,1976.0
+329,Tim Brandenburg,42.0,LHP,18.0,2.0,Royals,HS,0.0,1976.0
+330,Don Ruzek,43.0,SS,19.0,2.0,Dodgers,HS,0.0,1976.0
+331,Jerry Don Gleaton,44.0,LHP,20.0,2.0,Orioles,HS,2.3,1976.0
+332,Doe Boyland,45.0,OF,21.0,2.0,Pirates,4Yr,-0.3,1976.0
+333,Glenn Hoffman,46.0,SS,22.0,2.0,Red Sox,HS,0.4,1976.0
+334,Paul Householder,47.0,OF,23.0,2.0,Reds,HS,0.0,1976.0
+335,Brian Duffy,48.0,LHP,24.0,2.0,Athletics,HS,0.0,1976.0
+336,Harold Baines,1.0,1B,1.0,1.0,White Sox,HS,38.5,1977.0
+337,Bill Gullickson,2.0,RHP,2.0,1.0,Expos,HS,23.7,1977.0
+338,Paul Molitor,3.0,SS,3.0,1.0,Brewers,4Yr,75.4,1977.0
+339,Tim Cole,4.0,LHP,4.0,1.0,Braves,HS,0.0,1977.0
+340,Kevin Richards,5.0,RHP,5.0,1.0,Tigers,HS,0.0,1977.0
+341,Terry Kennedy,6.0,C,6.0,1.0,Cardinals,4Yr,21.5,1977.0
+342,Richard Dotson,7.0,RHP,7.0,1.0,Angels,HS,16.3,1977.0
+343,Brian Greer,8.0,OF,8.0,1.0,Padres,HS,-0.2,1977.0
+344,David Hibner,9.0,SS,9.0,1.0,Rangers,HS,0.0,1977.0
+345,Craig Landis,10.0,SS,10.0,1.0,Giants,HS,0.0,1977.0
+346,Bruce Compton,11.0,OF,11.0,1.0,Indians,HS,0.0,1977.0
+347,Randy Martz,12.0,RHP,12.0,1.0,Cubs,4Yr,3.8,1977.0
+348,Andrew Madden,13.0,RHP,13.0,1.0,Red Sox,HS,0.0,1977.0
+349,Ricky Adams,14.0,SS,14.0,1.0,Astros,HS,0.8,1977.0
+350,Paul Croft,15.0,OF,15.0,1.0,Twins,HS,0.0,1977.0
+351,Wally Backman,16.0,SS,16.0,1.0,Mets,HS,13.1,1977.0
+352,Craig Harris,17.0,RHP,17.0,1.0,Athletics,HS,0.0,1977.0
+353,Anthony Nicely,18.0,OF,18.0,1.0,Pirates,HS,0.0,1977.0
+354,Drungo Hazewood,19.0,C,19.0,1.0,Orioles,HS,-0.1,1977.0
+355,Bob Welch,20.0,RHP,20.0,1.0,Dodgers,4Yr,44.2,1977.0
+356,Mike Jones,21.0,LHP,21.0,1.0,Royals,HS,0.0,1977.0
+357,Scott Munninghoff,22.0,RHP,22.0,1.0,Phillies,HS,0.2,1977.0
+358,Steve Taylor,23.0,RHP,23.0,1.0,Yankees,4Yr,0.0,1977.0
+359,Tad Venger,24.0,3B,24.0,1.0,Reds,HS,0.0,1977.0
+360,Tom Goffena,25.0,SS,25.0,1.0,Blue Jays,HS,0.0,1977.0
+361,Dave Henderson,26.0,OF,26.0,1.0,Mariners,HS,27.6,1977.0
+362,Rich Barnes,27.0,LHP,1.0,2.0,White Sox,HS,-0.5,1977.0
+363,Gregory Staffon,28.0,RHP,2.0,2.0,Expos,HS,0.0,1977.0
+364,Kevin Bass,29.0,OF,3.0,2.0,Brewers,HS,14.8,1977.0
+365,Tony Brizzolara,30.0,RHP,4.0,2.0,Braves,4Yr,-0.3,1977.0
+366,Jeffrey Jackowiak,31.0,RHP,5.0,2.0,Tigers,HS,0.0,1977.0
+367,Ricky Wright,32.0,LHP,6.0,2.0,Cardinals,HS,0.7,1977.0
+368,Gary Johnson,33.0,RHP,7.0,2.0,Angels,HS,0.0,1977.0
+369,Barry Evans,34.0,SS,8.0,2.0,Padres,4Yr,0.0,1977.0
+370,Linvel Mosby,35.0,RHP,9.0,2.0,Rangers,HS,0.0,1977.0
+371,Phil Huffman,36.0,RHP,10.0,2.0,Giants,HS,-2.1,1977.0
+372,Venson Davis,37.0,OF,11.0,2.0,Indians,4Yr,0.0,1977.0
+373,Terry Francona,38.0,1B,12.0,2.0,Cubs,HS,-2.8,1977.0
+374,Bobby Sprowl,39.0,LHP,13.0,2.0,Red Sox,4Yr,-1.0,1977.0
+375,Stan Leland,40.0,RHP,14.0,2.0,Astros,HS,0.0,1977.0
+376,Bart Nieuwenhuis,41.0,LHP,15.0,2.0,Twins,HS,0.0,1977.0
+377,Mookie Wilson,42.0,OF,16.0,2.0,Mets,4Yr,22.2,1977.0
+378,Keith Creel,43.0,RHP,17.0,2.0,Athletics,HS,-0.9,1977.0
+379,Michael Pill,44.0,RHP,18.0,2.0,Pirates,HS,0.0,1977.0
+380,Dan Logan,45.0,1B,19.0,2.0,Orioles,4Yr,0.0,1977.0
+381,Joe Beckwith,46.0,RHP,20.0,2.0,Dodgers,4Yr,3.0,1977.0
+382,Mike Morley,47.0,LHP,21.0,2.0,Royals,HS,0.0,1977.0
+383,Edwin Neal,48.0,1B,22.0,2.0,Phillies,HS,0.0,1977.0
+384,Jeff White,49.0,C,23.0,2.0,Yankees,HS,0.0,1977.0
+385,Ray Corbett,50.0,C,24.0,2.0,Reds,HS,0.0,1977.0
+386,Dave Hodgins,51.0,C,25.0,2.0,Blue Jays,HS,0.0,1977.0
+387,Henry Bender,52.0,C,26.0,2.0,Mariners,HS,0.0,1977.0
+388,Bob Horner,1.0,3B,1.0,1.0,Braves,4Yr,21.7,1978.0
+389,Lloyd Moseby,2.0,1B,2.0,1.0,Blue Jays,HS,27.4,1978.0
+390,Hubie Brooks,3.0,OF,3.0,1.0,Mets,4Yr,12.8,1978.0
+391,Mike Morgan,4.0,RHP,4.0,1.0,Athletics,HS,26.6,1978.0
+392,Andy Hawkins,5.0,RHP,5.0,1.0,Padres,HS,1.5,1978.0
+393,Tito Nanni,6.0,OF,6.0,1.0,Mariners,HS,0.0,1978.0
+394,Bob Cummings,7.0,C,7.0,1.0,Giants,HS,0.0,1978.0
+395,Nick Hernandez,8.0,C,8.0,1.0,Brewers,HS,0.0,1978.0
+396,Glen Franklin,9.0,SS,9.0,1.0,Expos,JC,0.0,1978.0
+397,Phil Lansford,10.0,SS,10.0,1.0,Indians,HS,0.0,1978.0
+398,Rod Boxberger,11.0,RHP,11.0,1.0,Astros,4Yr,0.0,1978.0
+399,Kirk Gibson,12.0,OF,12.0,1.0,Tigers,4Yr,38.3,1978.0
+400,Bill Hayes,13.0,C,13.0,1.0,Cubs,4Yr,0.0,1978.0
+401,Tom Brunansky,14.0,OF,14.0,1.0,Angels,HS,21.8,1978.0
+402,Bob Hicks,15.0,1B,15.0,1.0,Cardinals,HS,0.0,1978.0
+403,Lenny Faedo,16.0,SS,16.0,1.0,Twins,HS,-0.2,1978.0
+404,Nick Esasky,17.0,SS,17.0,1.0,Reds,HS,8.2,1978.0
+405,Rex Hudler,18.0,SS,18.0,1.0,Yankees via White Sox,HS,6.5,1978.0
+406,Brad Garnett,19.0,1B,19.0,1.0,Pirates,HS,0.0,1978.0
+407,Tim Conroy,20.0,LHP,20.0,1.0,Athletics via Rangers,HS,-2.5,1978.0
+408,Jerry Aubin,21.0,OF,21.0,1.0,Pirates via Dodgers,HS,0.0,1978.0
+409,Robert Boyce,22.0,3B,22.0,1.0,Orioles,HS,0.0,1978.0
+410,Rip Rollins,23.0,1B,23.0,1.0,Phillies,HS,0.0,1978.0
+411,Matt Winters,24.0,OF,24.0,1.0,Yankees via Red Sox,HS,-0.7,1978.0
+412,Buddy Biancalana,25.0,SS,25.0,1.0,Royals,HS,-1.5,1978.0
+413,Brian Ryder,26.0,RHP,26.0,1.0,Yankees,HS,0.0,1978.0
+414,Matt Sinatro,27.0,C,1.0,2.0,Braves,HS,-0.4,1978.0
+415,Tim Thompson,28.0,1B,2.0,2.0,Blue Jays,HS,0.0,1978.0
+416,Larry Sheets,29.0,OF,3.0,2.0,Orioles via Mets,HS,2.0,1978.0
+417,Keith Atherton,30.0,RHP,4.0,2.0,Athletics,HS,4.6,1978.0
+418,Dave White,31.0,3B,5.0,2.0,White Sox via Padres,HS,0.0,1978.0
+419,Dave Valle,32.0,C,6.0,2.0,Mariners,HS,10.1,1978.0
+420,Steven Raine,33.0,RHP,7.0,2.0,Giants,HS,0.0,1978.0
+421,Richard Naumann,34.0,LHP,8.0,2.0,Mariners via Brewers,HS,0.0,1978.0
+422,Eddie Hook,35.0,RHP,9.0,2.0,Orioles via Expos,HS,0.0,1978.0
+423,Chris Bando,36.0,C,10.0,2.0,Indians,4Yr,1.7,1978.0
+424,Danny Heep,37.0,OF,11.0,2.0,Astros,4Yr,0.5,1978.0
+425,Craig Johnson,38.0,OF,12.0,2.0,Tigers,4Yr,0.0,1978.0
+426,Mel Hall,39.0,OF,13.0,2.0,Cubs,HS,8.7,1978.0
+427,Doug Gwosdz,40.0,C,14.0,2.0,Padres via Angels,HS,-0.7,1978.0
+428,Dave Kable,41.0,1B,15.0,2.0,Cardinals,HS,0.0,1978.0
+429,Michael Riley,42.0,RHP,16.0,2.0,Twins,HS,0.0,1978.0
+430,Dave Van Gorder,43.0,C,17.0,2.0,Reds,4Yr,-1.7,1978.0
+431,Benjamin Belue,44.0,OF,18.0,2.0,White Sox,HS,0.0,1978.0
+432,Bradley Palmer,45.0,LHP,19.0,2.0,Pirates,HS,0.0,1978.0
+433,Amos Lewis,46.0,RHP,20.0,2.0,Rangers,HS,0.0,1978.0
+434,Clay Smith,47.0,SS,21.0,2.0,Dodgers,HS,0.0,1978.0
+435,Cal Ripken,48.0,3B,22.0,2.0,Orioles,HS,95.5,1978.0
+436,Anthony McGill,49.0,OF,23.0,2.0,Phillies,HS,0.0,1978.0
+437,Cecil Whitehead,50.0,C,24.0,2.0,Orioles via Red Sox,4Yr,0.0,1978.0
+438,Darryl Motley,51.0,OF,25.0,2.0,Royals,HS,0.5,1978.0
+439,Steve Balboni,52.0,1B,26.0,2.0,Yankees,4Yr,0.9,1978.0
+440,Al Chambers,1.0,OF,1.0,1.0,Mariners,HS,-0.5,1979.0
+441,Tim Leary,2.0,RHP,2.0,1.0,Mets,4Yr,12.2,1979.0
+442,Jay Schroeder,3.0,C,3.0,1.0,Blue Jays,HS,0.0,1979.0
+443,Brad Komminsk,4.0,OF,4.0,1.0,Braves,HS,2.2,1979.0
+444,Juan Bustabad,5.0,SS,5.0,1.0,Athletics,HS,0.0,1979.0
+445,Andy Van Slyke,6.0,OF,6.0,1.0,Cardinals,HS,41.2,1979.0
+446,John Bohnet,7.0,LHP,7.0,1.0,Indians,HS,-0.1,1979.0
+447,John Mizerock,8.0,C,8.0,1.0,Astros,HS,-0.6,1979.0
+448,Steve Buechele,9.0,SS,9.0,1.0,White Sox,HS,16.5,1979.0
+449,Tim Wallach,10.0,1B,10.0,1.0,Expos,4Yr,38.3,1979.0
+450,Kevin Brandt,11.0,OF,11.0,1.0,Twins,HS,0.0,1979.0
+451,Jon Perlman,12.0,RHP,12.0,1.0,Cubs,4Yr,-0.5,1979.0
+452,Rick Leach,13.0,OF,13.0,1.0,Tigers,4Yr,3.2,1979.0
+453,Joe Lansford,14.0,1B,14.0,1.0,Padres,HS,0.3,1979.0
+454,Scott Garrelts,15.0,RHP,15.0,1.0,Giants via Angels,HS,10.0,1979.0
+455,Steve Howe,16.0,LHP,16.0,1.0,Dodgers via Pirates,4Yr,10.7,1979.0
+456,Jerry Don Gleaton,17.0,LHP,17.0,1.0,Rangers,4Yr,2.3,1979.0
+457,Rick Luecken,18.0,RHP,18.0,1.0,Giants,HS,-0.3,1979.0
+458,Ricky Seilheimer,19.0,C,19.0,1.0,White Sox via Orioles,HS,-0.5,1979.0
+459,Danny Lamar,20.0,C,20.0,1.0,Reds via Phillies,HS,0.0,1979.0
+460,Atlee Hammaker,21.0,LHP,21.0,1.0,Royals,4Yr,8.5,1979.0
+461,Mike Sullivan,22.0,RHP,22.0,1.0,Reds,4Yr,0.0,1979.0
+462,Chris Baker,23.0,OF,23.0,1.0,Tigers via Brewers,HS,0.0,1979.0
+463,Bob Geren,24.0,C,24.0,1.0,Padres via Dodgers,HS,1.2,1979.0
+464,Steve Perry,25.0,RHP,25.0,1.0,Dodgers via Yankees,4Yr,0.0,1979.0
+465,Mike Stenhouse,26.0,OF,26.0,1.0,Athletics via Red Sox,4Yr,-1.4,1979.0
+466,Jamie Allen,27.0,INF,1.0,2.0,Mariners,4Yr,-0.4,1979.0
+467,Jeff Bettendorf,28.0,RHP,2.0,2.0,Mets,HS,0.1,1979.0
+468,Ron Shepherd,29.0,OF,3.0,2.0,Blue Jays,HS,-1.4,1979.0
+469,Keefe Cato,30.0,RHP,4.0,2.0,Reds via Braves,4Yr,-0.2,1979.0
+470,Tom Dodd,31.0,OF,5.0,2.0,Athletics,4Yr,0.1,1979.0
+471,Michael Kwiecinski,32.0,SS,6.0,2.0,Expos via Cardinals,HS,0.0,1979.0
+472,Chris Rehbaum,33.0,OF,7.0,2.0,Indians,HS,0.0,1979.0
+473,Ty Gainey,34.0,INF,8.0,2.0,Astros,HS,0.0,1979.0
+474,Gary Glanz,35.0,RHP,9.0,2.0,White Sox,HS,0.0,1979.0
+475,Mark Ferguson,36.0,RHP,10.0,2.0,Athletics via Expos,HS,0.0,1979.0
+476,Randy Bush,37.0,OF,11.0,2.0,Twins,4Yr,1.6,1979.0
+477,Shane Allen,38.0,INF,12.0,2.0,Cubs,HS,0.0,1979.0
+478,Keith Fisher,39.0,C,13.0,2.0,Tigers,HS,0.0,1979.0
+479,Derek Tatsuno,40.0,LHP,14.0,2.0,Padres,4Yr,0.0,1979.0
+480,Bob Buchanan,41.0,LHP,15.0,2.0,Reds,HS,-0.9,1979.0
+481,Scott Fiepke,42.0,LHP,16.0,2.0,Pirates,HS,0.0,1979.0
+482,Donnie Scott,43.0,C,17.0,2.0,Rangers,HS,-1.7,1979.0
+483,Chris Brown,44.0,3B,18.0,2.0,Giants,HS,5.9,1979.0
+484,Tim Maples,45.0,RHP,19.0,2.0,Orioles,HS,0.0,1979.0
+485,Kyle Money,46.0,RHP,20.0,2.0,Phillies,HS,0.0,1979.0
+486,John Skinner,47.0,RHP,21.0,2.0,Royals,4Yr,0.0,1979.0
+487,Richard Wysocki,48.0,LHP,22.0,2.0,Reds,HS,0.0,1979.0
+488,Mark Higgins,49.0,OF,23.0,2.0,Brewers,HS,0.0,1979.0
+489,David Lanning,50.0,3B,24.0,2.0,Dodgers,4Yr,0.0,1979.0
+490,Todd Demeter,51.0,INF,25.0,2.0,Yankees,HS,0.0,1979.0
+491,Marc Sullivan,52.0,C,26.0,2.0,Red Sox,4Yr,-1.5,1979.0
+492,Darryl Strawberry,1.0,OF,1.0,1.0,Mets,HS,42.0,1980.0
+493,Garry Harris,2.0,SS,2.0,1.0,Blue Jays,HS,0.0,1980.0
+494,Ken Dayley,3.0,LHP,3.0,1.0,Braves,4Yr,3.6,1980.0
+495,Mike King,4.0,LHP,4.0,1.0,Athletics,4Yr,0.0,1980.0
+496,Jeff Pyburn,5.0,OF,5.0,1.0,Padres,4Yr,0.0,1980.0
+497,Darnell Coles,6.0,SS,6.0,1.0,Mariners,HS,-1.4,1980.0
+498,Jessie Reid,7.0,1B,7.0,1.0,Giants,HS,0.0,1980.0
+499,Cecil Espy,8.0,OF,8.0,1.0,White Sox,HS,1.7,1980.0
+500,Ross Jones,9.0,SS,9.0,1.0,Dodgers,4Yr,-0.5,1980.0
+501,Kelly Gruber,10.0,SS,10.0,1.0,Indians,HS,16.4,1980.0
+502,Don Schulze,11.0,RHP,11.0,1.0,Cubs,HS,-1.6,1980.0
+503,Jeff Reed,12.0,C,12.0,1.0,Twins,HS,4.5,1980.0
+504,Henry Powell,13.0,C,13.0,1.0,Phillies,HS,0.0,1980.0
+505,Tim Maki,14.0,RHP,14.0,1.0,Rangers,HS,0.0,1980.0
+506,Donald Collins,15.0,RHP,15.0,1.0,Cardinals,HS,0.0,1980.0
+507,Frank Wills,16.0,RHP,16.0,1.0,Royals,4Yr,-0.6,1980.0
+508,Dennis Rasmussen,17.0,LHP,17.0,1.0,Angels via Astros,4Yr,11.4,1980.0
+509,Glenn Wilson,18.0,3B,18.0,1.0,Tigers,4Yr,13.0,1980.0
+510,Ron Robinson,19.0,RHP,19.0,1.0,Reds,HS,8.2,1980.0
+511,Rick Renteria,20.0,SS,20.0,1.0,Pirates via Angels,HS,-0.5,1980.0
+512,Jim Acker,21.0,RHP,21.0,1.0,Braves via Expos,4Yr,5.8,1980.0
+513,Terry Francona,22.0,OF,22.0,1.0,Expos via Yankees,4Yr,-2.8,1980.0
+514,Billy Beane,23.0,OF,23.0,1.0,Mets via Pirates,HS,-1.6,1980.0
+515,John Gibbons,24.0,C,24.0,1.0,Mets via Red Sox,HS,0.2,1980.0
+516,Dion James,25.0,OF,25.0,1.0,Brewers,HS,6.2,1980.0
+517,Jeff Williams,26.0,OF,26.0,1.0,Orioles,HS,0.0,1980.0
+518,Jay Tibbs,27.0,RHP,1.0,2.0,Mets,HS,5.0,1980.0
+519,Ken Kinnard,28.0,1B,2.0,2.0,Blue Jays,HS,0.0,1980.0
+520,Brian Fisher,29.0,RHP,3.0,2.0,Braves,HS,0.9,1980.0
+521,Rhett Whisman,30.0,SS,4.0,2.0,Athletics,HS,0.0,1980.0
+522,Eric Erickson,31.0,LHP,5.0,2.0,Giants via Padres,HS,0.0,1980.0
+523,Matt Young,32.0,LHP,6.0,2.0,Mariners,4Yr,7.6,1980.0
+524,Jeff Horne,33.0,RHP,7.0,2.0,Pirates via Giants,HS,0.0,1980.0
+525,Wes Kent,34.0,1B,8.0,2.0,White Sox,HS,0.0,1980.0
+526,Jim Weaver,35.0,OF,9.0,2.0,Twins via Dodgers,4Yr,-0.3,1980.0
+527,Turner Gill,36.0,SS,10.0,2.0,White Sox via Indians,HS,0.0,1980.0
+528,Dan Cataline,37.0,OF,11.0,2.0,Cubs,HS,0.0,1980.0
+529,Tim Teufel,38.0,2B,12.0,2.0,Twins,4Yr,15.3,1980.0
+530,Larry Knight,39.0,RHP,13.0,2.0,Phillies,HS,0.0,1980.0
+531,Dwayne Henry,40.0,RHP,14.0,2.0,Rangers,HS,0.1,1980.0
+532,Dan Plesac,41.0,LHP,15.0,2.0,Cardinals,HS,17.6,1980.0
+533,Roger Hansen,42.0,3B,16.0,2.0,Royals,HS,0.0,1980.0
+534,Jim Pettibone,43.0,RHP,17.0,2.0,Reds via Astros,HS,0.0,1980.0
+535,Charles Reese,44.0,SS,18.0,2.0,Tigers,HS,0.0,1980.0
+536,Ken Jones,45.0,RHP,19.0,2.0,Reds,4Yr,0.0,1980.0
+537,Michael Olson,46.0,RHP,20.0,2.0,Royals via Angels,HS,0.0,1980.0
+538,Dave Miley,47.0,SS,21.0,2.0,Reds via Expos,HS,0.0,1980.0
+539,Mike Brown,48.0,RHP,22.0,2.0,Red Sox via Yankees,4Yr,-1.7,1980.0
+540,Tim Burke,49.0,RHP,23.0,2.0,Pirates,4Yr,12.4,1980.0
+541,Joe Hesketh,50.0,LHP,24.0,2.0,Expos via Red Sox,4Yr,8.7,1980.0
+542,Robert Schroeck,51.0,LHP,25.0,2.0,Brewers,4Yr,0.0,1980.0
+543,Al Pardo,52.0,C,26.0,2.0,Orioles,HS,-1.8,1980.0
+544,Mike Moore,1.0,RHP,1.0,1.0,Mariners,4Yr,28.5,1981.0
+545,Joe Carter,2.0,OF,2.0,1.0,Cubs,4Yr,19.3,1981.0
+546,Dick Schofield,3.0,SS,3.0,1.0,Angels,HS,18.8,1981.0
+547,Terry Blocker,4.0,OF,4.0,1.0,Mets,4Yr,-1.0,1981.0
+548,Matt Williams,5.0,RHP,5.0,1.0,Blue Jays,4Yr,0.4,1981.0
+549,Kevin McReynolds,6.0,OF,6.0,1.0,Padres,4Yr,29.9,1981.0
+550,Daryl Boston,7.0,LHP,7.0,1.0,White Sox,HS,4.4,1981.0
+551,Bob Meacham,8.0,SS,8.0,1.0,Cardinals,4Yr,3.9,1981.0
+552,Ron Darling,9.0,RHP,9.0,1.0,Rangers,4Yr,20.2,1981.0
+553,Mark Grant,10.0,RHP,10.0,1.0,Giants,HS,2.2,1981.0
+554,Mike Sodders,11.0,3B,11.0,1.0,Twins,4Yr,0.0,1981.0
+555,Jay Roberts,12.0,OF,12.0,1.0,Braves,HS,0.0,1981.0
+556,George Alpert,13.0,OF,13.0,1.0,Indians,HS,0.0,1981.0
+557,Jim Winn,14.0,RHP,14.0,1.0,Pirates,4Yr,-1.2,1981.0
+558,Tim Pyznarski,15.0,3B,15.0,1.0,Athletics,4Yr,0.0,1981.0
+559,Vance Lovelace,16.0,LHP,16.0,1.0,Cubs via Reds,HS,-0.1,1981.0
+560,Ricky Barlow,17.0,RHP,17.0,1.0,Tigers,HS,0.0,1981.0
+561,Darren Dilks,18.0,LHP,18.0,1.0,Expos,4Yr,0.0,1981.0
+562,Steve Lyons,19.0,SS,19.0,1.0,Red Sox,4Yr,2.0,1981.0
+563,Johnny Abrego,20.0,RHP,20.0,1.0,Phillies,HS,-0.6,1981.0
+564,John Cerutti,21.0,LHP,21.0,1.0,Blue Jays via Brewers,4Yr,6.7,1981.0
+565,Dave Anderson,22.0,SS,22.0,1.0,Dodgers,4Yr,5.9,1981.0
+566,Dave Leeper,23.0,OF,23.0,1.0,Royals,4Yr,-1.2,1981.0
+567,Al Lachowicz,24.0,RHP,24.0,1.0,Rangers via Astros,4Yr,0.2,1981.0
+568,Kevin Burrell,25.0,C,25.0,1.0,Red Sox via Orioles,HS,0.0,1981.0
+569,Frank Castro,26.0,C,26.0,1.0,Padres via Yankees,4Yr,0.0,1981.0
+570,Kevin Dukes,27.0,LHP,1.0,2.0,Mariners,4Yr,0.0,1981.0
+571,Darrin Jackson,28.0,OF,2.0,2.0,Cubs,HS,11.4,1981.0
+572,Jeff Carl,29.0,SS,3.0,2.0,Expos via Angels,4Yr,0.0,1981.0
+573,Chuckie Canady,30.0,OF,4.0,2.0,Rangers via Mets,4Yr,0.0,1981.0
+574,Bill Pinkham,31.0,C,5.0,2.0,Blue Jays,4Yr,0.0,1981.0
+575,Bill Long,32.0,RHP,6.0,2.0,Padres,4Yr,2.3,1981.0
+576,Mike Gallego,33.0,2B,7.0,2.0,Athletics via White Sox,4Yr,17.1,1981.0
+577,Mark Gubicza,34.0,RHP,8.0,2.0,Royals via Cardinals,HS,38.0,1981.0
+578,Mark Langston,35.0,LHP,9.0,2.0,Mariners via Rangers,4Yr,50.7,1981.0
+579,Kelvin Torve,36.0,1B,10.0,2.0,Giants,4Yr,-0.3,1981.0
+580,Frank Viola,37.0,LHP,11.0,2.0,Twins,4Yr,47.4,1981.0
+581,John Christensen,38.0,OF,12.0,2.0,Mets via Braves,4Yr,-0.9,1981.0
+582,Neal Heaton,39.0,LHP,13.0,2.0,Indians,4Yr,8.6,1981.0
+583,Lee Tunnell,40.0,RHP,14.0,2.0,Pirates,4Yr,0.9,1981.0
+584,Rick Rodriguez,41.0,RHP,15.0,2.0,Athletics,4Yr,-0.4,1981.0
+585,Lanell Culver,42.0,OF,16.0,2.0,Reds,HS,0.0,1981.0
+586,Nelson Simmons,43.0,OF,17.0,2.0,Tigers,HS,0.0,1981.0
+587,Mike Fuentes,44.0,OF,18.0,2.0,Expos,4Yr,0.1,1981.0
+588,Chris Howard,45.0,2B,19.0,2.0,Red Sox,HS,0.0,1981.0
+589,C.L. Penigar,46.0,OF,20.0,2.0,Phillies,HS,0.0,1981.0
+590,Scott Roberts,47.0,RHP,21.0,2.0,Brewers,4Yr,0.0,1981.0
+591,Sid Bream,48.0,1B,22.0,2.0,Dodgers,4Yr,11.1,1981.0
+592,Tony Ferreira,49.0,LHP,23.0,2.0,Royals,HS,-0.1,1981.0
+593,Lemmie Miller,50.0,OF,24.0,2.0,Dodgers via Astros,4Yr,-0.1,1981.0
+594,Craig Henderson,51.0,LHP,25.0,2.0,Twins via Orioles,4Yr,0.0,1981.0
+595,John Elway,52.0,OF,26.0,2.0,Yankees,4Yr,0.0,1981.0
+596,Shawon Dunston,1.0,SS,1.0,1.0,Cubs,HS,11.5,1982.0
+597,Augie Schmidt,2.0,SS,2.0,1.0,Blue Jays,4Yr,0.0,1982.0
+598,Jimmy Jones,3.0,RHP,3.0,1.0,Padres,HS,-1.7,1982.0
+599,Bryan Oelkers,4.0,LHP,4.0,1.0,Twins,4Yr,-0.9,1982.0
+600,Dwight Gooden,5.0,RHP,5.0,1.0,Mets,HS,53.2,1982.0
+601,Spike Owen,6.0,SS,6.0,1.0,Mariners,4Yr,12.5,1982.0
+602,Sam Khalifa,7.0,SS,7.0,1.0,Pirates,HS,0.9,1982.0
+603,Bob Kipper,8.0,LHP,8.0,1.0,Angels,HS,-1.2,1982.0
+604,Duane Ward,9.0,RHP,9.0,1.0,Braves,HS,10.6,1982.0
+605,John Morris,10.0,OF,10.0,1.0,Royals,4Yr,-0.5,1982.0
+606,Steve Stanicek,11.0,1B,11.0,1.0,Giants,4Yr,-0.1,1982.0
+607,Mark Snyder,12.0,RHP,12.0,1.0,Indians,HS,0.0,1982.0
+608,John Russell,13.0,C,13.0,1.0,Phillies,4Yr,-3.1,1982.0
+609,Ron Karkovice,14.0,C,14.0,1.0,White Sox,HS,14.7,1982.0
+610,Steve Swain,15.0,OF,15.0,1.0,Astros,HS,0.0,1982.0
+611,Sam Horn,16.0,1B,16.0,1.0,Red Sox via Rangers,HS,2.4,1982.0
+612,Tony Woods,17.0,SS,17.0,1.0,Cubs via Expos,4Yr,0.0,1982.0
+613,Bob Parkins,18.0,RHP,18.0,1.0,Red Sox,HS,0.0,1982.0
+614,Franklin Stubbs,19.0,1B,19.0,1.0,Dodgers,4Yr,2.8,1982.0
+615,Rich Monteleone,20.0,RHP,20.0,1.0,Tigers,HS,2.7,1982.0
+616,Todd Worrell,21.0,RHP,21.0,1.0,Cardinals,4Yr,11.4,1982.0
+617,Scott Jones,22.0,LHP,22.0,1.0,Reds via Yankees,HS,0.0,1982.0
+618,Billy Hawley,23.0,RHP,23.0,1.0,Reds,HS,0.0,1982.0
+619,Joe Kucharski,24.0,RHP,24.0,1.0,Orioles,4Yr,0.0,1982.0
+620,Dale Sveum,25.0,SS,25.0,1.0,Brewers,HS,-2.3,1982.0
+621,Jeff Ledbetter,26.0,1B,26.0,1.0,Red Sox via Athletics,4Yr,0.0,1982.0
+622,Stan Boderick,27.0,OF,27.0,1.0,Cubs,HS,0.0,1982.0
+623,Bobby Jones,28.0,1B,28.0,1.0,Reds,HS,0.0,1982.0
+624,Kevin Romine,29.0,OF,1.0,2.0,Red Sox,4Yr,-1.3,1982.0
+625,David Wells,30.0,LHP,2.0,2.0,Blue Jays,HS,53.6,1982.0
+626,Joe Plesac,31.0,RHP,3.0,2.0,Padres,4Yr,0.0,1982.0
+627,Allan Anderson,32.0,LHP,4.0,2.0,Twins,HS,8.6,1982.0
+628,Floyd Youmans,33.0,RHP,5.0,2.0,Mets,HS,6.8,1982.0
+629,Mike Wishnevski,34.0,OF,6.0,2.0,Mariners,4Yr,0.0,1982.0
+630,Jim Opie,35.0,3B,7.0,2.0,Pirates,4Yr,0.0,1982.0
+631,Tim Birtsas,36.0,LHP,8.0,2.0,Yankees via Angels,4Yr,0.9,1982.0
+632,Joe Johnson,37.0,RHP,9.0,2.0,Braves,4Yr,1.3,1982.0
+633,Joe Szekely,38.0,C,10.0,2.0,Royals,4Yr,0.0,1982.0
+634,Barry Bonds,39.0,OF,11.0,2.0,Giants,HS,162.4,1982.0
+635,Jim Wilson,40.0,1B,12.0,2.0,Indians,4Yr,-0.2,1982.0
+636,Lance McCullers,41.0,RHP,13.0,2.0,Phillies,HS,5.5,1982.0
+637,Rolando Pino,42.0,3B,14.0,2.0,White Sox,HS,0.0,1982.0
+638,Louie Meadows,43.0,1B,15.0,2.0,Astros,4Yr,-0.8,1982.0
+639,Mike Rubel,44.0,1B,16.0,2.0,Rangers,4Yr,0.0,1982.0
+640,John Dopson,45.0,RHP,17.0,2.0,Expos,HS,5.5,1982.0
+641,Steve Jongewaard,46.0,SS,18.0,2.0,Red Sox,HS,0.0,1982.0
+642,Rich Flores,47.0,SS,19.0,2.0,Dodgers,HS,0.0,1982.0
+643,Scott Kamieniecki,48.0,RHP,20.0,2.0,Tigers,HS,9.2,1982.0
+644,Tim Wallace,49.0,C,21.0,2.0,Cardinals,4Yr,0.0,1982.0
+645,Bo Jackson,50.0,SS,22.0,2.0,Yankees,HS,8.3,1982.0
+646,Barry Larkin,51.0,SS,23.0,2.0,Reds,HS,70.2,1982.0
+647,Dave Otto,52.0,LHP,24.0,2.0,Orioles,HS,0.5,1982.0
+648,Bryan Duquette,53.0,LHP,25.0,2.0,Brewers,4Yr,0.0,1982.0
+649,Steve Ontiveros,54.0,RHP,26.0,2.0,Athletics,4Yr,8.5,1982.0
+650,Tim Belcher,1.0,RHP,1.0,1.0,Twins,4Yr,26.2,1983.0
+651,Kurt Stillwell,2.0,SS,2.0,1.0,Reds,HS,3.1,1983.0
+652,Jeff Kunkel,3.0,SS,3.0,1.0,Rangers,4Yr,1.0,1983.0
+653,Eddie Williams,4.0,3B,4.0,1.0,Mets,HS,-1.1,1983.0
+654,Stan Hilton,5.0,RHP,5.0,1.0,Athletics,4Yr,0.0,1983.0
+655,Jackie Davidson,6.0,RHP,6.0,1.0,Cubs,HS,0.0,1983.0
+656,Darrel Akerfelds,7.0,RHP,7.0,1.0,Mariners,4Yr,-1.4,1983.0
+657,Robbie Wine,8.0,C,8.0,1.0,Astros,4Yr,-0.6,1983.0
+658,Matt Stark,9.0,C,9.0,1.0,Blue Jays,HS,-0.5,1983.0
+659,Ray Hayward,10.0,LHP,10.0,1.0,Padres,4Yr,-1.8,1983.0
+660,Dave Clark,11.0,OF,11.0,1.0,Indians,4Yr,0.4,1983.0
+661,Ron DeLucchi,12.0,OF,12.0,1.0,Pirates,HS,0.0,1983.0
+662,Joel Davis,13.0,RHP,13.0,1.0,White Sox via Yankees,HS,0.6,1983.0
+663,Rich Stoll,14.0,RHP,14.0,1.0,Expos,4Yr,0.0,1983.0
+664,Wayne Dotson,15.0,RHP,15.0,1.0,Tigers,HS,0.0,1983.0
+665,Brian Holman,16.0,RHP,16.0,1.0,Expos via Giants,HS,9.3,1983.0
+666,Terry Bell,17.0,C,17.0,1.0,Mariners via White Sox,4Yr,0.0,1983.0
+667,Erik Sonberg,18.0,LHP,18.0,1.0,Dodgers,4Yr,0.0,1983.0
+668,Roger Clemens,19.0,RHP,19.0,1.0,Red Sox,4Yr,140.3,1983.0
+669,Stan Jefferson,20.0,OF,20.0,1.0,Mets via Braves,4Yr,-0.2,1983.0
+670,Gary Thurman,21.0,OF,21.0,1.0,Royals,HS,-2.7,1983.0
+671,Ricky Jordan,22.0,1B,22.0,1.0,Phillies,HS,4.9,1983.0
+672,Mark Doran,23.0,OF,23.0,1.0,Angels,4Yr,0.0,1983.0
+673,Jim Lindeman,24.0,3B,24.0,1.0,Cardinals,4Yr,-0.1,1983.0
+674,Wayne Wilson,25.0,RHP,25.0,1.0,Orioles,HS,0.0,1983.0
+675,Dan Plesac,26.0,LHP,26.0,1.0,Brewers,4Yr,17.6,1983.0
+676,Calvin Schiraldi,27.0,RHP,27.0,1.0,Mets,4Yr,3.6,1983.0
+677,Russ Morman,28.0,OF,28.0,1.0,White Sox,4Yr,-0.1,1983.0
+678,Bill Swift,29.0,RHP,1.0,2.0,Twins,4Yr,20.9,1983.0
+679,Chris Sabo,30.0,3B,2.0,2.0,Reds,4Yr,16.4,1983.0
+680,George Threadgill,31.0,OF,3.0,2.0,Rangers,HS,0.0,1983.0
+681,Dave Magadan,32.0,1B,4.0,2.0,Mets,4Yr,21.1,1983.0
+682,Mike Brumley,33.0,SS,5.0,2.0,Red Sox via Athletics,4Yr,-2.3,1983.0
+683,Rich Amaral,34.0,2B,6.0,2.0,Cubs,4Yr,5.2,1983.0
+684,Mickey Brantley,35.0,OF,7.0,2.0,Mariners,4Yr,0.9,1983.0
+685,Stan Fansler,36.0,RHP,8.0,2.0,Pirates via Astros,HS,0.2,1983.0
+686,Webster Garrison,37.0,SS,9.0,2.0,Blue Jays,HS,-0.2,1983.0
+687,Mike Cherry,38.0,RHP,10.0,2.0,Dodgers via Padres,4Yr,0.0,1983.0
+688,Andy Allanson,39.0,C,11.0,2.0,Indians,4Yr,0.8,1983.0
+689,Paul Oates,40.0,LHP,12.0,2.0,Cardinals via Pirates,HS,0.0,1983.0
+690,Joe Oliver,41.0,C,13.0,2.0,Reds via Yankees,HS,3.9,1983.0
+691,Jim Jefferson,42.0,RHP,14.0,2.0,Expos,4Yr,0.0,1983.0
+692,Rod Poissant,43.0,RHP,15.0,2.0,Tigers,HS,0.0,1983.0
+693,Jeff Robinson,44.0,RHP,16.0,2.0,Giants,4Yr,3.1,1983.0
+694,Roger Jensen,45.0,OF,17.0,2.0,White Sox,4Yr,0.0,1983.0
+695,Bob Hamilton,46.0,RHP,18.0,2.0,Dodgers,HS,0.0,1983.0
+696,John Toale,47.0,3B,19.0,2.0,Red Sox,HS,0.0,1983.0
+697,Luis Lopez,48.0,C,20.0,2.0,Dodgers via Braves,HS,-0.5,1983.0
+698,Todd Mabe,49.0,SS,21.0,2.0,Royals,HS,0.0,1983.0
+699,Mike Colpitt,50.0,SS,22.0,2.0,Phillies,HS,0.0,1983.0
+700,Bill Merrifield,51.0,SS,23.0,2.0,Angels,4Yr,0.0,1983.0
+701,Gary Green,52.0,SS,24.0,2.0,Cardinals,4Yr,0.1,1983.0
+702,Michael Conley,53.0,LHP,25.0,2.0,Orioles,HS,0.0,1983.0
+703,Glenn Braggs,54.0,OF,26.0,2.0,Brewers,4Yr,5.8,1983.0
+704,Shawn Abner,1.0,OF,1.0,1.0,Mets,HS,-1.3,1984.0
+705,Bill Swift,2.0,RHP,2.0,1.0,Mariners,4Yr,20.9,1984.0
+706,Drew Hall,3.0,LHP,3.0,1.0,Cubs,4Yr,-1.3,1984.0
+707,Cory Snyder,4.0,SS,4.0,1.0,Indians,4Yr,0.6,1984.0
+708,Pat Pacillo,5.0,RHP,5.0,1.0,Reds,4Yr,-0.7,1984.0
+709,Erik Pappas,6.0,C,6.0,1.0,Angels,HS,0.4,1984.0
+710,Mike Dunne,7.0,RHP,7.0,1.0,Cardinals,4Yr,0.2,1984.0
+711,Jay Bell,8.0,SS,8.0,1.0,Twins,HS,36.9,1984.0
+712,Alan Cockrell,9.0,OF,9.0,1.0,Giants,4Yr,-0.1,1984.0
+713,Mark McGwire,10.0,1B,10.0,1.0,Athletics,4Yr,62.0,1984.0
+714,Shane Mack,11.0,OF,11.0,1.0,Padres,4Yr,21.7,1984.0
+715,Oddibe McDowell,12.0,OF,12.0,1.0,Rangers,4Yr,10.6,1984.0
+716,Bob Caffrey,13.0,C,13.0,1.0,Expos,4Yr,0.0,1984.0
+717,John Marzano,14.0,C,14.0,1.0,Red Sox,4Yr,0.3,1984.0
+718,Kevin Andersh,15.0,LHP,15.0,1.0,Pirates,4Yr,0.0,1984.0
+719,Scott Bankhead,16.0,RHP,16.0,1.0,Royals,4Yr,11.4,1984.0
+720,Don August,17.0,RHP,17.0,1.0,Astros,4Yr,1.8,1984.0
+721,Isaiah Clark,18.0,SS,18.0,1.0,Brewers,HS,0.0,1984.0
+722,Drew Denson,19.0,1B,19.0,1.0,Braves,HS,-0.1,1984.0
+723,Tony Menendez,20.0,RHP,20.0,1.0,White Sox via Blue Jays,HS,-0.3,1984.0
+724,Pete Smith,21.0,RHP,21.0,1.0,Phillies,HS,5.2,1984.0
+725,Jeff Pries,22.0,RHP,22.0,1.0,Yankees,4Yr,0.0,1984.0
+726,Dennis Livingston,23.0,LHP,23.0,1.0,Dodgers,4Yr,0.0,1984.0
+727,Terry Mulholland,24.0,LHP,24.0,1.0,Giants via Tigers,4Yr,11.3,1984.0
+728,John Hoover,25.0,RHP,25.0,1.0,Orioles,4Yr,-0.2,1984.0
+729,Tom Hartley,26.0,OF,26.0,1.0,White Sox,HS,0.0,1984.0
+730,Gary Green,27.0,SS,27.0,1.0,Padres,4Yr,0.1,1984.0
+731,Norm Charlton,28.0,LHP,28.0,1.0,Expos,4Yr,8.4,1984.0
+732,Lorenzo Sisney,29.0,C,1.0,2.0,Mets,HS,0.0,1984.0
+733,Mike Christ,30.0,RHP,2.0,2.0,Mariners,4Yr,0.0,1984.0
+734,Greg Maddux,31.0,RHP,3.0,2.0,Cubs,HS,106.9,1984.0
+735,John Farrell,32.0,RHP,4.0,2.0,Indians,4Yr,7.4,1984.0
+736,Curt Krippner,33.0,RHP,5.0,2.0,Reds,HS,0.0,1984.0
+737,Terry Green,34.0,SS,6.0,2.0,Astros via Angels,HS,0.0,1984.0
+738,Matt Kinzer,35.0,RHP,7.0,2.0,Cardinals,4Yr,-1.5,1984.0
+739,Greg Morhardt,36.0,1B,8.0,2.0,Twins,4Yr,0.0,1984.0
+740,Joe Olker,37.0,LHP,9.0,2.0,Giants,4Yr,0.0,1984.0
+741,Kurt Dempster,38.0,RHP,10.0,2.0,Indians via Athletics,HS,0.0,1984.0
+742,Keith Miller,39.0,OF,11.0,2.0,Yankees via Padres,4Yr,3.8,1984.0
+743,Jimmy Meadows,40.0,RHP,12.0,2.0,Rangers,JC,0.0,1984.0
+744,Dave Graybill,41.0,RHP,13.0,2.0,Expos,4Yr,0.0,1984.0
+745,Scott Wade,42.0,OF,14.0,2.0,Red Sox,4Yr,0.0,1984.0
+746,Tim McMillan,43.0,OF,15.0,2.0,Pirates,HS,0.0,1984.0
+747,Luis de los Santos,44.0,3B,16.0,2.0,Royals,HS,-0.8,1984.0
+748,Karl Allaire,45.0,SS,17.0,2.0,Astros,JC,0.0,1984.0
+749,Bob Simonson,46.0,OF,18.0,2.0,Brewers,JC,0.0,1984.0
+750,Tom Glavine,47.0,LHP,19.0,2.0,Braves,HS,81.5,1984.0
+751,Dane Johnson,48.0,RHP,20.0,2.0,Blue Jays,4Yr,0.3,1984.0
+752,Marvin Freeman,49.0,RHP,21.0,2.0,Phillies,4Yr,6.2,1984.0
+753,Al Leiter,50.0,LHP,22.0,2.0,Yankees,HS,40.3,1984.0
+754,Tim Scott,51.0,RHP,23.0,2.0,Dodgers,HS,2.0,1984.0
+755,Robert Souza,52.0,RHP,24.0,2.0,Tigers,4Yr,0.0,1984.0
+756,Jeff Tackett,53.0,C,25.0,2.0,Orioles,HS,0.6,1984.0
+757,Kevin Renz,54.0,RHP,26.0,2.0,White Sox,4Yr,0.0,1984.0
+758,B.J. Surhoff,1.0,SS,1.0,1.0,Brewers,4Yr,34.3,1985.0
+759,Will Clark,2.0,1B,2.0,1.0,Giants,4Yr,56.2,1985.0
+760,Bobby Witt,3.0,RHP,3.0,1.0,Rangers,4Yr,15.1,1985.0
+761,Barry Larkin,4.0,SS,4.0,1.0,Reds,4Yr,70.2,1985.0
+762,Kurt Brown,5.0,C,5.0,1.0,White Sox,HS,0.0,1985.0
+763,Barry Bonds,6.0,OF,6.0,1.0,Pirates,4Yr,162.4,1985.0
+764,Mike Campbell,7.0,RHP,7.0,1.0,Mariners,4Yr,-1.3,1985.0
+765,Pete Incaviglia,8.0,3B,8.0,1.0,Expos,4Yr,10.2,1985.0
+766,Mike Poehl,9.0,RHP,9.0,1.0,Indians,4Yr,0.0,1985.0
+767,Chris Gwynn,10.0,OF,10.0,1.0,Dodgers,4Yr,-1.2,1985.0
+768,Walt Weiss,11.0,SS,11.0,1.0,Athletics,4Yr,16.5,1985.0
+769,Cameron Drew,12.0,OF,12.0,1.0,Astros,4Yr,-0.1,1985.0
+770,Jeff Bumgarner,13.0,RHP,13.0,1.0,Twins,HS,0.0,1985.0
+771,Tommy Greene,14.0,RHP,14.0,1.0,Braves,HS,7.1,1985.0
+772,Willie Fraser,15.0,RHP,15.0,1.0,Angels,4Yr,1.9,1985.0
+773,Trey McCall,16.0,C,16.0,1.0,Phillies,HS,0.0,1985.0
+774,Brian McRae,17.0,SS,17.0,1.0,Royals,HS,14.1,1985.0
+775,Joe Magrane,18.0,LHP,18.0,1.0,Cardinals,4Yr,12.2,1985.0
+776,Mike Cook,19.0,RHP,19.0,1.0,Angels via Orioles,4Yr,-0.3,1985.0
+777,Gregg Jefferies,20.0,SS,20.0,1.0,Mets,HS,19.4,1985.0
+778,Dan Gabriele,21.0,RHP,21.0,1.0,Red Sox,HS,0.0,1985.0
+779,Rafael Palmeiro,22.0,OF,22.0,1.0,Cubs via Padres,4Yr,71.6,1985.0
+780,Joey Cora,23.0,SS,23.0,1.0,Padres via Yankees,4Yr,7.9,1985.0
+781,Dave Masters,24.0,RHP,24.0,1.0,Cubs,4Yr,0.0,1985.0
+782,Greg David,25.0,OF,25.0,1.0,Blue Jays,HS,0.0,1985.0
+783,Randy Nosek,26.0,RHP,26.0,1.0,Tigers,HS,-0.7,1985.0
+784,Bill McGuire,27.0,C,27.0,1.0,Mariners,4Yr,-0.2,1985.0
+785,Rick Balabon,28.0,RHP,28.0,1.0,Yankees,HS,0.0,1985.0
+786,Carl Moraw,29.0,RHP,1.0,2.0,Brewers,4Yr,0.0,1985.0
+787,Brian Ohnoutka,30.0,RHP,2.0,2.0,Giants,4Yr,0.0,1985.0
+788,Mike Watters,31.0,2B,3.0,2.0,Dodgers via Rangers,4Yr,0.0,1985.0
+789,Steve Davis,32.0,OF,4.0,2.0,Reds,HS,0.0,1985.0
+790,Jose Mota,33.0,2B,5.0,2.0,White Sox,4Yr,-0.4,1985.0
+791,Bruce Ruffin,34.0,LHP,6.0,2.0,Phillies via Pirates,4Yr,8.4,1985.0
+792,Mike Schooler,35.0,RHP,7.0,2.0,Mariners,4Yr,4.1,1985.0
+793,Randy Johnson,36.0,LHP,8.0,2.0,Expos,4Yr,102.1,1985.0
+794,Andy Ghelfi,37.0,RHP,9.0,2.0,Indians,4Yr,0.0,1985.0
+795,Jeremy Smith,38.0,C,10.0,2.0,Dodgers,4Yr,0.0,1985.0
+796,Dave Otto,39.0,LHP,11.0,2.0,Athletics,4Yr,0.5,1985.0
+797,Bert Hunter,40.0,SS,12.0,2.0,Astros,HS,0.0,1985.0
+798,Steve Gasser,41.0,RHP,13.0,2.0,Twins,HS,0.0,1985.0
+799,Jim Fregosi,42.0,SS,14.0,2.0,Cardinals via Braves,4Yr,0.0,1985.0
+800,Bob Sharpnack,43.0,RHP,15.0,2.0,Angels,HS,0.0,1985.0
+801,Mike Young,44.0,LHP,16.0,2.0,Phillies,4Yr,0.0,1985.0
+802,Chris Jelic,45.0,C,17.0,2.0,Royals,4Yr,0.0,1985.0
+803,Tim Jones,46.0,SS,18.0,2.0,Cardinals,4Yr,0.2,1985.0
+804,Damon Hansel,47.0,C,19.0,2.0,Pirates via Orioles,HS,0.0,1985.0
+805,Scott Servais,48.0,C,20.0,2.0,Mets,HS,3.1,1985.0
+806,Lance Blankenship,49.0,3B,21.0,2.0,Red Sox,4Yr,6.8,1985.0
+807,Mark Cole,50.0,SS,22.0,2.0,Padres,HS,0.0,1985.0
+808,Troy Evers,51.0,RHP,23.0,2.0,Yankees,4Yr,0.0,1985.0
+809,Greg Smith,52.0,SS,24.0,2.0,Cubs,HS,-0.7,1985.0
+810,Kevin Batiste,53.0,OF,25.0,2.0,Blue Jays,HS,-0.1,1985.0
+811,Scott Carter,54.0,RHP,26.0,2.0,Tigers,HS,0.0,1985.0
+812,Jeff King,1.0,SS,1.0,1.0,Pirates,4Yr,16.8,1986.0
+813,Greg Swindell,2.0,LHP,2.0,1.0,Indians,4Yr,30.9,1986.0
+814,Matt Williams,3.0,3B,3.0,1.0,Giants,4Yr,46.4,1986.0
+815,Kevin Brown,4.0,RHP,4.0,1.0,Rangers,4Yr,68.3,1986.0
+816,Kent Mercker,5.0,LHP,5.0,1.0,Braves,HS,12.5,1986.0
+817,Gary Sheffield,6.0,SS,6.0,1.0,Brewers,HS,60.3,1986.0
+818,Brad Brink,7.0,RHP,7.0,1.0,Phillies,4Yr,-0.2,1986.0
+819,Pat Lennon,8.0,SS,8.0,1.0,Mariners,HS,-0.5,1986.0
+820,Derrick May,9.0,OF,9.0,1.0,Cubs,HS,2.7,1986.0
+821,Derek Parks,10.0,RHP,10.0,1.0,Twins,HS,-0.5,1986.0
+822,Thomas Howard,11.0,OF,11.0,1.0,Padres,4Yr,2.5,1986.0
+823,Scott Hemond,12.0,C,12.0,1.0,Athletics,4Yr,1.4,1986.0
+824,Ryan Bowen,13.0,RHP,13.0,1.0,Astros,HS,-1.1,1986.0
+825,Greg McMurtry,14.0,OF,14.0,1.0,Red Sox,HS,0.0,1986.0
+826,Kevin Dean,15.0,OF,15.0,1.0,Expos,HS,0.0,1986.0
+827,Roberto Hernandez,16.0,RHP,16.0,1.0,Angels via Orioles,4Yr,19.0,1986.0
+828,Scott Scudder,17.0,RHP,17.0,1.0,Reds,HS,-1.2,1986.0
+829,Phil Clark,18.0,C,18.0,1.0,Tigers,HS,0.7,1986.0
+830,Mike White,19.0,OF,19.0,1.0,Dodgers,HS,0.0,1986.0
+831,Grady Hall,20.0,LHP,20.0,1.0,White Sox,4Yr,0.0,1986.0
+832,Lee May,21.0,OF,21.0,1.0,Mets,HS,0.0,1986.0
+833,Lee Stevens,22.0,OF,22.0,1.0,Angels,HS,2.0,1986.0
+834,Luis Alicea,23.0,2B,23.0,1.0,Cardinals,4Yr,12.0,1986.0
+835,Tony Clements,24.0,SS,24.0,1.0,Royals,HS,0.0,1986.0
+836,Terry Carr,25.0,OF,25.0,1.0,Angels via Yankees,HS,0.0,1986.0
+837,Earl Sanders,26.0,RHP,26.0,1.0,Blue Jays,4Yr,0.0,1986.0
+838,Mike Fetters,27.0,RHP,27.0,1.0,Angels,4Yr,8.1,1986.0
+839,Daryl Green,28.0,RHP,28.0,1.0,Angels,HS,0.0,1986.0
+840,Mike Walker,29.0,RHP,1.0,2.0,Pirates,4Yr,-0.4,1986.0
+841,Kevin Wickander,30.0,LHP,2.0,2.0,Indians,4Yr,1.6,1986.0
+842,Kirt Manwaring,31.0,C,3.0,2.0,Giants,4Yr,5.2,1986.0
+843,Roger Pavlik,32.0,RHP,4.0,2.0,Rangers,HS,10.6,1986.0
+844,Brian Champion,33.0,SS,5.0,2.0,Braves,HS,0.0,1986.0
+845,Mark Ambrose,34.0,RHP,6.0,2.0,Brewers,4Yr,0.0,1986.0
+846,Cliff Brantley,35.0,RHP,7.0,2.0,Phillies,HS,0.1,1986.0
+847,Erik Hanson,36.0,RHP,8.0,2.0,Mariners,4Yr,22.4,1986.0
+848,Kraig Washington,37.0,SS,9.0,2.0,Cubs,HS,0.0,1986.0
+849,Jeff Bronkey,38.0,RHP,10.0,2.0,Twins,4Yr,0.5,1986.0
+850,Will Taylor,39.0,OF,11.0,2.0,Padres,HS,0.0,1986.0
+851,Kevin Tapani,40.0,RHP,12.0,2.0,Athletics,4Yr,29.4,1986.0
+852,Mike Hook,41.0,LHP,13.0,2.0,Astros,HS,0.0,1986.0
+853,Paul Williams,42.0,C,14.0,2.0,Red Sox,HS,0.0,1986.0
+854,Jeff Tabaka,43.0,LHP,15.0,2.0,Expos,4Yr,0.9,1986.0
+855,John Posey,44.0,C,16.0,2.0,Orioles,4Yr,0.0,1986.0
+856,Keith Thomas,45.0,OF,17.0,2.0,Reds,HS,0.0,1986.0
+857,Milt Cuyler,46.0,OF,18.0,2.0,Tigers,HS,5.4,1986.0
+858,Dave Hansen,47.0,SS,19.0,2.0,Dodgers,HS,4.1,1986.0
+859,Carl Sullivan,48.0,OF,20.0,2.0,White Sox,HS,0.0,1986.0
+860,Fritz Polka,49.0,C,21.0,2.0,Mets,4Yr,0.0,1986.0
+861,Jeff Gay,50.0,C,22.0,2.0,Angels,HS,0.0,1986.0
+862,Reed Olmstead,51.0,1B,23.0,2.0,Cardinals,HS,0.0,1986.0
+863,Darryl Robinson,52.0,OF,24.0,2.0,Royals,HS,0.0,1986.0
+864,Rich Scheid,53.0,LHP,25.0,2.0,Yankees,4Yr,-0.3,1986.0
+865,Steve Cummings,54.0,RHP,26.0,2.0,Blue Jays,4Yr,0.2,1986.0
+866,Todd Zeile,55.0,C,27.0,2.0,Cardinals,4Yr,19.2,1986.0
+867,Ken Griffey,1.0,OF,1.0,1.0,Mariners,HS,83.6,1987.0
+868,Mark Merchant,2.0,OF,2.0,1.0,Pirates,HS,0.0,1987.0
+869,Willie Banks,3.0,RHP,3.0,1.0,Twins,HS,1.1,1987.0
+870,Mike Harkey,4.0,RHP,4.0,1.0,Cubs,4Yr,6.3,1987.0
+871,Jack McDowell,5.0,RHP,5.0,1.0,White Sox,4Yr,28.2,1987.0
+872,Derek Lilliquist,6.0,LHP,6.0,1.0,Braves,4Yr,5.0,1987.0
+873,Chris Myers,7.0,LHP,7.0,1.0,Orioles,HS,0.0,1987.0
+874,Dan Opperman,8.0,RHP,8.0,1.0,Dodgers,HS,0.0,1987.0
+875,Kevin Appier,9.0,RHP,9.0,1.0,Royals,JC,54.9,1987.0
+876,Kevin Garner,10.0,RHP,10.0,1.0,Padres,4Yr,0.0,1987.0
+877,Lee Tinsley,11.0,OF,11.0,1.0,Athletics,HS,1.7,1987.0
+878,Delino DeShields,12.0,SS,12.0,1.0,Expos,HS,24.2,1987.0
+879,Bill Spiers,13.0,SS,13.0,1.0,Brewers,4Yr,10.3,1987.0
+880,Cris Carpenter,14.0,RHP,14.0,1.0,Cardinals,4Yr,2.5,1987.0
+881,Brad Duvall,15.0,RHP,15.0,1.0,Orioles via Indians,4Yr,0.0,1987.0
+882,Mike Remlinger,16.0,LHP,16.0,1.0,Giants,4Yr,11.0,1987.0
+883,Alex Sanchez,17.0,RHP,17.0,1.0,Blue Jays,4Yr,-0.6,1987.0
+884,Jack Armstrong,18.0,RHP,18.0,1.0,Reds,4Yr,1.2,1987.0
+885,Brian Bohanon,19.0,LHP,19.0,1.0,Rangers,HS,8.9,1987.0
+886,Bill Henderson,20.0,C,20.0,1.0,Tigers via Phillies,HS,0.0,1987.0
+887,Steve Pegues,21.0,OF,21.0,1.0,Tigers,HS,-0.7,1987.0
+888,Craig Biggio,22.0,C,22.0,1.0,Astros,4Yr,65.1,1987.0
+889,Bill Haselman,23.0,C,23.0,1.0,Rangers via Yankees,4Yr,3.4,1987.0
+890,Chris Donnels,24.0,3B,24.0,1.0,Mets,4Yr,0.4,1987.0
+891,John Orton,25.0,C,25.0,1.0,Angels,4Yr,0.5,1987.0
+892,Reggie Harris,26.0,RHP,26.0,1.0,Red Sox,HS,-0.1,1987.0
+893,Pete Harnisch,27.0,RHP,27.0,1.0,Orioles,4Yr,18.2,1987.0
+894,Tyrone Kingwood,28.0,OF,28.0,1.0,Expos,JC,0.0,1987.0
+895,Mark Petkovsek,29.0,RHP,29.0,1.0,Rangers,4Yr,1.0,1987.0
+896,Travis Fryman,30.0,SS,30.0,1.0,Tigers,HS,34.3,1987.0
+897,David Holdridge,31.0,RHP,31.0,1.0,Angels,HS,0.1,1987.0
+898,Bob Zupcic,32.0,OF,32.0,1.0,Red Sox,4Yr,-0.7,1987.0
+899,Dave Burba,33.0,RHP,1.0,2.0,Mariners,4Yr,16.7,1987.0
+900,Ben Shelton,34.0,LHP,2.0,2.0,Pirates,HS,-0.1,1987.0
+901,Terry Jorgensen,35.0,OF,3.0,2.0,Twins,4Yr,0.3,1987.0
+902,Nate Minchey,36.0,RHP,4.0,2.0,Expos via Cubs,HS,-0.6,1987.0
+903,Brent Knackert,37.0,RHP,5.0,2.0,White Sox,HS,-1.0,1987.0
+904,Mike Urman,38.0,C,6.0,2.0,Braves,HS,0.0,1987.0
+905,Todd Hundley,39.0,C,7.0,2.0,Mets via Orioles,HS,10.8,1987.0
+906,Don Carroll,40.0,OF,8.0,2.0,Dodgers,HS,0.0,1987.0
+907,Terry Shumpert,41.0,2B,9.0,2.0,Royals,4Yr,-0.1,1987.0
+908,Roger Smithberg,42.0,RHP,10.0,2.0,Padres,4Yr,0.4,1987.0
+909,Mike Erb,43.0,RHP,11.0,2.0,Angels via Athletics,4Yr,0.0,1987.0
+910,Richie Lewis,44.0,RHP,12.0,2.0,Expos,4Yr,0.2,1987.0
+911,Chris Johnson,45.0,RHP,13.0,2.0,Brewers,HS,0.0,1987.0
+912,Jeremy Hernandez,46.0,RHP,14.0,2.0,Cardinals,4Yr,2.0,1987.0
+913,Albert Belle,47.0,OF,15.0,2.0,Indians,4Yr,39.9,1987.0
+914,Eric Gunderson,48.0,LHP,16.0,2.0,Giants,4Yr,0.9,1987.0
+915,Derek Bell,49.0,OF,17.0,2.0,Blue Jays,HS,12.9,1987.0
+916,Freddie Benavides,50.0,SS,18.0,2.0,Reds,4Yr,-0.7,1987.0
+917,Barry Manuel,51.0,RHP,19.0,2.0,Rangers,4Yr,1.2,1987.0
+918,Matt Rambo,52.0,LHP,20.0,2.0,Phillies,,0.0,1987.0
+919,Rob Richie,53.0,OF,21.0,2.0,Tigers,4Yr,0.0,1987.0
+920,Randy Hennis,54.0,RHP,22.0,2.0,Astros,4Yr,0.6,1987.0
+921,Curt Krippner,55.0,RHP,23.0,2.0,Brewers via Yankees,4Yr,0.0,1987.0
+922,Pete Schourek,56.0,LHP,24.0,2.0,Mets,HS,6.3,1987.0
+923,Kevin Flora,57.0,SS,25.0,2.0,Angels,HS,-0.6,1987.0
+924,Paul Brown,58.0,LHP,26.0,2.0,Red Sox,4Yr,0.0,1987.0
+925,Andy Benes,1.0,RHP,1.0,1.0,Padres,4Yr,31.7,1988.0
+926,Mark Lewis,2.0,SS,2.0,1.0,Indians,HS,-2.6,1988.0
+927,Steve Avery,3.0,LHP,3.0,1.0,Braves,HS,14.0,1988.0
+928,Gregg Olson,4.0,RHP,4.0,1.0,Orioles,4Yr,13.2,1988.0
+929,Bill Bene,5.0,RHP,5.0,1.0,Dodgers,4Yr,0.0,1988.0
+930,Monty Fariss,6.0,SS,6.0,1.0,Rangers,4Yr,-0.2,1988.0
+931,Willie Ansley,7.0,OF,7.0,1.0,Astros,HS,0.0,1988.0
+932,Jim Abbott,8.0,LHP,8.0,1.0,Angels,4Yr,19.9,1988.0
+933,Ty Griffin,9.0,2B,9.0,1.0,Cubs,4Yr,0.0,1988.0
+934,Robin Ventura,10.0,3B,10.0,1.0,White Sox,4Yr,56.0,1988.0
+935,Pat Combs,11.0,LHP,11.0,1.0,Phillies,4Yr,1.8,1988.0
+936,Tom Fischer,12.0,LHP,12.0,1.0,Red Sox,4Yr,0.0,1988.0
+937,Austin Manahan,13.0,SS,13.0,1.0,Pirates,HS,0.0,1988.0
+938,Tino Martinez,14.0,1B,14.0,1.0,Mariners,4Yr,28.8,1988.0
+939,Royce Clayton,15.0,SS,15.0,1.0,Giants via Reds,HS,19.5,1988.0
+940,Stan Royer,16.0,C,16.0,1.0,Athletics,4Yr,-0.2,1988.0
+941,Charles Nagy,17.0,RHP,17.0,1.0,Indians via Giants,4Yr,25.3,1988.0
+942,Hugh Walker,18.0,OF,18.0,1.0,Royals,HS,0.0,1988.0
+943,Dave Wainhouse,19.0,RHP,19.0,1.0,Expos,4Yr,-1.6,1988.0
+944,Johnny Ard,20.0,RHP,20.0,1.0,Twins,JC,0.0,1988.0
+945,Dave Proctor,21.0,RHP,21.0,1.0,Mets,JC,0.0,1988.0
+946,John Ericks,22.0,RHP,22.0,1.0,Cardinals via Yankees,4Yr,0.0,1988.0
+947,Brad Duvall,23.0,RHP,23.0,1.0,Cardinals,4Yr,0.0,1988.0
+948,Alex Fernandez,24.0,RHP,24.0,1.0,Brewers,HS,28.9,1988.0
+949,Ed Sprague,25.0,3B,25.0,1.0,Blue Jays,4Yr,5.6,1988.0
+950,Rico Brogna,26.0,1B,26.0,1.0,Tigers,HS,-1.1,1988.0
+951,Jeff Mutis,27.0,LHP,27.0,1.0,Indians,4Yr,-1.9,1988.0
+952,Ricky Gutierrez,28.0,SS,28.0,1.0,Orioles,HS,-1.5,1988.0
+953,Ted Wood,29.0,OF,29.0,1.0,Giants,4Yr,-1.0,1988.0
+954,Brian Jordan,30.0,OF,30.0,1.0,Cardinals,4Yr,32.8,1988.0
+955,Kelly Lifgren,31.0,RHP,1.0,2.0,Padres,JC,0.0,1988.0
+956,Brian Johnson,32.0,C,2.0,2.0,Indians,4Yr,0.0,1988.0
+957,Jimmy Kremers,33.0,C,3.0,2.0,Braves,4Yr,-1.0,1988.0
+958,Arthur Rhodes,34.0,LHP,4.0,2.0,Orioles,HS,15.4,1988.0
+959,Wynn Beck,35.0,C,5.0,2.0,Athletics via Dodgers,HS,0.0,1988.0
+960,Tim Morrow,36.0,OF,6.0,2.0,Rangers,HS,0.0,1988.0
+961,Mica Lewis,37.0,SS,7.0,2.0,Astros,4Yr,0.0,1988.0
+962,Scott Ebert,38.0,RHP,8.0,2.0,Giants via Angels,HS,0.0,1988.0
+963,Ben Howze,39.0,RHP,9.0,2.0,Expos via Cubs,HS,0.0,1988.0
+964,Lenny Brutcher,40.0,RHP,10.0,2.0,White Sox,HS,0.0,1988.0
+965,Matt Murray,41.0,RHP,11.0,2.0,Braves via Phillies,HS,-0.7,1988.0
+966,Andy Rush,42.0,RHP,12.0,2.0,Red Sox,HS,0.0,1988.0
+967,Keith Richardson,43.0,RHP,13.0,2.0,Pirates,4Yr,0.0,1988.0
+968,Greg Pirkl,44.0,C,14.0,2.0,Mariners,HS,-0.5,1988.0
+969,Jeff Branson,45.0,SS,15.0,2.0,Reds,4Yr,0.0,1988.0
+970,Joe Slusarski,46.0,RHP,16.0,2.0,Athletics,4Yr,-0.2,1988.0
+971,Chris Hancock,47.0,LHP,17.0,2.0,Giants,HS,0.0,1988.0
+972,Bob Hamelin,48.0,1B,18.0,2.0,Royals,JC,2.6,1988.0
+973,Chris Nabholz,49.0,LHP,19.0,2.0,Expos,4Yr,5.6,1988.0
+974,Alan Newman,50.0,LHP,20.0,2.0,Twins,JC,-0.2,1988.0
+975,Jeff Seale,51.0,RHP,21.0,2.0,Mets,HS,0.0,1988.0
+976,Dave Silvestri,52.0,SS,22.0,2.0,Astros via Yankees,4Yr,-1.3,1988.0
+977,Mike Hensley,53.0,RHP,23.0,2.0,Cardinals,4Yr,0.0,1988.0
+978,Randy Snyder,54.0,C,24.0,2.0,Brewers,4Yr,0.0,1988.0
+979,Tim Hodge,55.0,C,25.0,2.0,Blue Jays,HS,0.0,1988.0
+980,Scott Livingstone,56.0,3B,26.0,2.0,Tigers,4Yr,2.4,1988.0
+981,John Kupsey,57.0,3B,27.0,2.0,Braves,HS,0.0,1988.0
+982,Ben McDonald,1.0,RHP,1.0,1.0,Orioles,4Yr,20.9,1989.0
+983,Tyler Houston,2.0,C,2.0,1.0,Braves,HS,1.5,1989.0
+984,Roger Salkeld,3.0,RHP,3.0,1.0,Mariners,HS,0.3,1989.0
+985,Jeff Jackson,4.0,OF,4.0,1.0,Phillies,HS,0.0,1989.0
+986,Donald Harris,5.0,OF,5.0,1.0,Rangers,4Yr,-1.4,1989.0
+987,Paul Coleman,6.0,OF,6.0,1.0,Cardinals,HS,0.0,1989.0
+988,Frank Thomas,7.0,1B,7.0,1.0,White Sox,4Yr,73.7,1989.0
+989,Earl Cunningham,8.0,OF,8.0,1.0,Cubs,HS,0.0,1989.0
+990,Kyle Abbott,9.0,LHP,9.0,1.0,Angels,4Yr,-1.4,1989.0
+991,Charles Johnson,10.0,C,10.0,1.0,Expos,HS,22.6,1989.0
+992,Calvin Murray,11.0,3B,11.0,1.0,Indians,4Yr,2.1,1989.0
+993,Jeff Juden,12.0,RHP,12.0,1.0,Astros,HS,-0.4,1989.0
+994,Brent Mayne,13.0,C,13.0,1.0,Royals,4Yr,3.0,1989.0
+995,Steve Hosey,14.0,OF,14.0,1.0,Giants,4Yr,-0.6,1989.0
+996,Kiki Jones,15.0,RHP,15.0,1.0,Dodgers via Yankees,HS,0.0,1989.0
+997,Greg Blosser,16.0,OF,16.0,1.0,Red Sox via Padres,HS,-0.4,1989.0
+998,Cal Eldred,17.0,RHP,17.0,1.0,Brewers,4Yr,16.2,1989.0
+999,Willie Greene,18.0,SS,18.0,1.0,Pirates,HS,3.1,1989.0
+1000,Eddie Zosky,19.0,SS,19.0,1.0,Blue Jays,4Yr,-0.5,1989.0
+1001,Scott Bryant,20.0,OF,20.0,1.0,Reds,4Yr,0.0,1989.0
+1002,Greg Gohr,21.0,RHP,21.0,1.0,Tigers,4Yr,0.4,1989.0
+1003,Tom Goodwin,22.0,OF,22.0,1.0,Dodgers,4Yr,8.6,1989.0
+1004,Mo Vaughn,23.0,1B,23.0,1.0,Red Sox,4Yr,27.0,1989.0
+1005,Alan Zinter,24.0,C,24.0,1.0,Mets,4Yr,-0.7,1989.0
+1006,Chuck Knoblauch,25.0,SS,25.0,1.0,Twins,4Yr,44.6,1989.0
+1007,Scott Burrell,26.0,RHP,26.0,1.0,Mariners via Athletics,HS,0.0,1989.0
+1008,Todd Jones,27.0,RHP,27.0,1.0,Astros,4Yr,10.9,1989.0
+1009,Jamie McAndrew,28.0,RHP,28.0,1.0,Dodgers,4Yr,-0.1,1989.0
+1010,Kevin Morton,29.0,LHP,29.0,1.0,Red Sox,4Yr,0.4,1989.0
+1011,Gordon Powell,30.0,3B,30.0,1.0,Brewers,HS,0.0,1989.0
+1012,Keith Schmidt,31.0,OF,1.0,2.0,Orioles,HS,0.0,1989.0
+1013,Tab Brown,32.0,RHP,2.0,2.0,Braves,HS,0.0,1989.0
+1014,Tommy Taylor,33.0,RHP,3.0,2.0,Orioles via Mariners,HS,0.0,1989.0
+1015,Chris Roberts,34.0,LHP,4.0,2.0,Phillies,HS,0.0,1989.0
+1016,Brian Hunter,35.0,OF,5.0,2.0,Astros via Rangers,HS,7.4,1989.0
+1017,Mike Milchin,36.0,LHP,6.0,2.0,Cardinals,4Yr,-0.6,1989.0
+1018,Don Sheppard,37.0,OF,7.0,2.0,White Sox,HS,0.0,1989.0
+1019,Gary Scott,38.0,3B,8.0,2.0,Cubs,4Yr,-1.3,1989.0
+1020,Joe Grahe,39.0,RHP,9.0,2.0,Angels,4Yr,4.2,1989.0
+1021,Glenn Murray,40.0,C,10.0,2.0,Expos,HS,-0.6,1989.0
+1022,Billy Lott,41.0,OF,11.0,2.0,Dodgers via Indians,HS,0.0,1989.0
+1023,Jermaine Swinton,42.0,OF,12.0,2.0,Astros,HS,0.0,1989.0
+1024,Rich Tunison,43.0,1B,13.0,2.0,Royals,JC,0.0,1989.0
+1025,Clay Bellinger,44.0,SS,14.0,2.0,Giants,4Yr,-0.2,1989.0
+1026,Andy Fox,45.0,3B,15.0,2.0,Yankees,HS,-0.5,1989.0
+1027,Ken Felder,46.0,OF,16.0,2.0,Padres,HS,0.0,1989.0
+1028,Rusty Rugg,47.0,LHP,17.0,2.0,Brewers,HS,0.0,1989.0
+1029,Rich Aude,48.0,3B,18.0,2.0,Pirates,HS,-1.0,1989.0
+1030,Mike Moore,49.0,OF,19.0,2.0,Blue Jays,4Yr,0.0,1989.0
+1031,Aaron Goins,50.0,OF,20.0,2.0,Reds,HS,0.0,1989.0
+1032,Brad Wilson,51.0,C,21.0,2.0,Tigers,HS,0.0,1989.0
+1033,Stan Payne,52.0,LHP,22.0,2.0,Dodgers,HS,0.0,1989.0
+1034,Jeff McNeely,53.0,OF,23.0,2.0,Red Sox,JC,0.2,1989.0
+1035,Tom Engle,54.0,RHP,24.0,2.0,Mets,HS,0.0,1989.0
+1036,John Gumpf,55.0,OF,25.0,2.0,Twins,HS,0.0,1989.0
+1037,Scott Lydy,56.0,OF,26.0,2.0,Athletics,JC,0.0,1989.0
+1038,Brian Boltz,57.0,LHP,27.0,2.0,Braves,4Yr,0.0,1989.0
+1039,Lance Jennings,58.0,C,28.0,2.0,Royals,HS,0.0,1989.0
+1040,John Hope,59.0,RHP,29.0,2.0,Pirates,HS,-0.9,1989.0
+1041,Brent Bowers,60.0,OF,30.0,2.0,Blue Jays,HS,0.3,1989.0
+1042,Chipper Jones,1.0,SS,1.0,1.0,Braves,HS,85.0,1990.0
+1043,Tony Clark,2.0,OF,2.0,1.0,Tigers,HS,12.5,1990.0
+1044,Mike Lieberthal,3.0,C,3.0,1.0,Phillies,HS,15.2,1990.0
+1045,Alex Fernandez,4.0,RHP,4.0,1.0,White Sox,4Yr,28.9,1990.0
+1046,Kurt Miller,5.0,RHP,5.0,1.0,Pirates,HS,-2.6,1990.0
+1047,Marc Newfield,6.0,1B,6.0,1.0,Mariners,HS,-1.6,1990.0
+1048,Dan Wilson,7.0,C,7.0,1.0,Reds,4Yr,13.0,1990.0
+1049,Tim Costo,8.0,SS,8.0,1.0,Indians,4Yr,-0.7,1990.0
+1050,Ron Walden,9.0,LHP,9.0,1.0,Dodgers,HS,0.0,1990.0
+1051,Carl Everett,10.0,OF,10.0,1.0,Yankees,HS,20.4,1990.0
+1052,Shane Andrews,11.0,3B,11.0,1.0,Expos,HS,2.0,1990.0
+1053,Todd Ritchie,12.0,RHP,12.0,1.0,Twins,HS,6.3,1990.0
+1054,Donovan Osborne,13.0,LHP,13.0,1.0,Cardinals,4Yr,5.7,1990.0
+1055,Todd Van Poppel,14.0,RHP,14.0,1.0,Athletics via Brewers,HS,-0.2,1990.0
+1056,Adam Hyzdu,15.0,OF,15.0,1.0,Giants via Astros,HS,-0.1,1990.0
+1057,Dan Smith,16.0,LHP,16.0,1.0,Rangers,4Yr,0.0,1990.0
+1058,Jeromy Burnitz,17.0,OF,17.0,1.0,Mets,4Yr,19.7,1990.0
+1059,Aaron Holbert,18.0,SS,18.0,1.0,Cardinals via Red Sox,HS,-0.4,1990.0
+1060,Eric Christopherson,19.0,C,19.0,1.0,Giants via Padres,4Yr,0.0,1990.0
+1061,Mike Mussina,20.0,RHP,20.0,1.0,Orioles,4Yr,83.0,1990.0
+1062,Tom Nevers,21.0,SS,21.0,1.0,Astros via Giants,HS,0.0,1990.0
+1063,Steve Karsay,22.0,RHP,22.0,1.0,Blue Jays,HS,11.2,1990.0
+1064,Lance Dickson,23.0,LHP,23.0,1.0,Cubs,4Yr,-0.4,1990.0
+1065,Rondell White,24.0,OF,24.0,1.0,Expos via Angels,HS,28.1,1990.0
+1066,Robbie Beckett,25.0,LHP,25.0,1.0,Padres via Royals,HS,-0.3,1990.0
+1067,Don Peters,26.0,RHP,26.0,1.0,Athletics,4Yr,0.0,1990.0
+1068,Mike Zimmerman,27.0,RHP,27.0,1.0,Pirates,4Yr,0.0,1990.0
+1069,Gabe White,28.0,LHP,28.0,1.0,Expos,HS,6.5,1990.0
+1070,Midre Cummings,29.0,OF,29.0,1.0,Twins,HS,1.0,1990.0
+1071,Paul Ellis,30.0,C,30.0,1.0,Cardinals,4Yr,0.0,1990.0
+1072,Brian Williams,31.0,RHP,31.0,1.0,Astros,4Yr,-4.0,1990.0
+1073,Scott Sanders,32.0,RHP,32.0,1.0,Padres,4Yr,4.7,1990.0
+1074,Marcus Jensen,33.0,C,33.0,1.0,Giants,HS,-0.8,1990.0
+1075,Dave Zancanaro,34.0,LHP,34.0,1.0,Athletics,4Yr,0.0,1990.0
+1076,Stan Spencer,35.0,RHP,35.0,1.0,Expos,4Yr,-0.5,1990.0
+1077,Kirk Dressendorfer,36.0,RHP,36.0,1.0,Athletics,4Yr,-0.8,1990.0
+1078,Ben VanRyn,37.0,LHP,37.0,1.0,Expos,HS,-0.1,1990.0
+1079,Tony Manahan,38.0,SS,38.0,1.0,Mariners,4Yr,0.0,1990.0
+1080,Sam Hence,39.0,OF,39.0,1.0,Indians,HS,0.0,1990.0
+1081,Stan Robertson,40.0,OF,40.0,1.0,Expos,HS,0.0,1990.0
+1082,Frankie Rodriguez,41.0,RHP,1.0,2.0,Red Sox via Braves,HS,1.2,1990.0
+1083,Curtis Shaw,42.0,LHP,2.0,2.0,Athletics via Tigers,4Yr,0.0,1990.0
+1084,Tim Schweitzer,43.0,LHP,3.0,2.0,Phillies,HS,0.0,1990.0
+1085,Bob Wickman,44.0,RHP,4.0,2.0,White Sox,4Yr,17.2,1990.0
+1086,Robert Eenhoorn,45.0,SS,5.0,2.0,Yankees via Pirates,4Yr,0.2,1990.0
+1087,Darrell Whitmore,46.0,OF,6.0,2.0,Indians via Mariners,4Yr,-1.9,1990.0
+1088,Keith Gordon,47.0,SS,7.0,2.0,Reds,4Yr,-0.1,1990.0
+1089,Pat Bryant,48.0,OF,8.0,2.0,Indians,HS,0.0,1990.0
+1090,Mike Hardge,49.0,SS,9.0,2.0,Expos via Dodgers,HS,0.0,1990.0
+1091,Tavo Alvarez,50.0,RHP,10.0,2.0,Expos via Yankees,HS,-0.3,1990.0
+1092,Chris Haney,51.0,LHP,11.0,2.0,Expos,4Yr,3.2,1990.0
+1093,Jayhawk Owens,52.0,C,12.0,2.0,Twins,4Yr,0.3,1990.0
+1094,Chris Martin,53.0,SS,13.0,2.0,Expos via Cardinals,4Yr,0.0,1990.0
+1095,Larue Baber,54.0,OF,14.0,2.0,Brewers,HS,0.0,1990.0
+1096,Gary Mota,55.0,OF,15.0,2.0,Astros,JC,0.0,1990.0
+1097,Mike Schiefelbein,56.0,RHP,16.0,2.0,Rangers,HS,0.0,1990.0
+1098,Aaron Ledesma,57.0,SS,17.0,2.0,Mets,JC,2.6,1990.0
+1099,Ron Caridad,58.0,RHP,18.0,2.0,Twins via Red Sox,HS,0.0,1990.0
+1100,Keith Grunewald,59.0,SS,19.0,2.0,Tigers via Padres,HS,0.0,1990.0
+1101,Erik Schullstrom,60.0,RHP,20.0,2.0,Orioles,4Yr,-0.2,1990.0
+1102,Jose Prado,61.0,RHP,21.0,2.0,Giants,HS,0.0,1990.0
+1103,Chris Weinke,62.0,3B,22.0,2.0,Blue Jays,HS,0.0,1990.0
+1104,Ryan Hawblitzel,63.0,RHP,23.0,2.0,Cubs,HS,-0.1,1990.0
+1105,Phil Leftwich,64.0,RHP,24.0,2.0,Angels,4Yr,2.5,1990.0
+1106,Eric Helfand,65.0,C,25.0,2.0,Athletics via Royals,4Yr,-0.2,1990.0
+1107,Gary Hust,66.0,OF,26.0,2.0,Athletics,HS,0.0,1990.0
+1108,Eric Maloney,67.0,RHP,27.0,2.0,White Sox,HS,0.0,1990.0
+1109,Leroy Williams,68.0,SS,28.0,2.0,Dodgers,HS,0.0,1990.0
+1110,Jeff Williams,69.0,RHP,29.0,2.0,Orioles,4Yr,0.0,1990.0
+1111,Joe Rosselli,70.0,LHP,30.0,2.0,Giants,HS,-1.0,1990.0
+1112,Tim Hyers,71.0,1B,31.0,2.0,Blue Jays,HS,-1.2,1990.0
+1113,Troy Bradford,72.0,RHP,32.0,2.0,Cubs,4Yr,0.0,1990.0
+1114,Scott Freeman,73.0,RHP,33.0,2.0,Dodgers,4Yr,0.0,1990.0
+1115,Brien Taylor,1.0,LHP,1.0,1.0,Yankees,HS,0.0,1991.0
+1116,Mike Kelly,2.0,OF,2.0,1.0,Braves,4Yr,0.4,1991.0
+1117,Dave McCarty,3.0,1B,3.0,1.0,Twins,4Yr,-2.0,1991.0
+1118,Dmitri Young,4.0,3B,4.0,1.0,Cardinals,HS,12.2,1991.0
+1119,Ken Henderson,5.0,RHP,5.0,1.0,Brewers,HS,0.0,1991.0
+1120,John Burke,6.0,RHP,6.0,1.0,Astros,4Yr,-0.5,1991.0
+1121,Joe Vitiello,7.0,OF,7.0,1.0,Royals,4Yr,-0.5,1991.0
+1122,Joey Hamilton,8.0,RHP,8.0,1.0,Padres,4Yr,14.6,1991.0
+1123,Mark Smith,9.0,OF,9.0,1.0,Orioles,4Yr,0.0,1991.0
+1124,Tyler Green,10.0,RHP,10.0,1.0,Phillies,4Yr,-0.5,1991.0
+1125,Shawn Estes,11.0,LHP,11.0,1.0,Mariners,HS,11.2,1991.0
+1126,Doug Glanville,12.0,OF,12.0,1.0,Cubs,4Yr,10.9,1991.0
+1127,Manny Ramirez,13.0,3B,13.0,1.0,Indians,HS,69.2,1991.0
+1128,Cliff Floyd,14.0,1B,14.0,1.0,Expos,HS,25.9,1991.0
+1129,Ty Hill,15.0,LHP,15.0,1.0,Brewers via Tigers,HS,0.0,1991.0
+1130,Shawn Green,16.0,OF,16.0,1.0,Blue Jays via Giants,HS,34.5,1991.0
+1131,Eduardo Perez,17.0,1B,17.0,1.0,Angels,4Yr,1.0,1991.0
+1132,Al Shirley,18.0,OF,18.0,1.0,Mets via Dodgers,HS,0.0,1991.0
+1133,Benji Gil,19.0,SS,19.0,1.0,Rangers,HS,2.9,1991.0
+1134,Pokey Reese,20.0,SS,20.0,1.0,Reds,HS,6.3,1991.0
+1135,Allen Watson,21.0,LHP,21.0,1.0,Cardinals via Blue Jays,4Yr,2.9,1991.0
+1136,Brian Barber,22.0,RHP,22.0,1.0,Cardinals via Mets,HS,-0.6,1991.0
+1137,Aaron Sele,23.0,RHP,23.0,1.0,Red Sox,4Yr,20.6,1991.0
+1138,Jon Farrell,24.0,C,24.0,1.0,Pirates,JC,0.0,1991.0
+1139,Scott Ruffcorn,25.0,RHP,25.0,1.0,White Sox,4Yr,-2.5,1991.0
+1140,Brent Gates,26.0,SS,26.0,1.0,Athletics,4Yr,5.5,1991.0
+1141,Scott Stahoviak,27.0,3B,27.0,1.0,Twins,4Yr,1.0,1991.0
+1142,Tom McKinnon,28.0,RHP,28.0,1.0,Cardinals,HS,0.0,1991.0
+1143,Shawn Livesey,29.0,SS,29.0,1.0,Astros,HS,0.0,1991.0
+1144,Jason Pruitt,30.0,RHP,30.0,1.0,Royals,HS,0.0,1991.0
+1145,Pepper Anthony,31.0,RHP,31.0,1.0,Padres,HS,0.0,1991.0
+1146,Justin Thompson,32.0,LHP,32.0,1.0,Tigers,HS,12.9,1991.0
+1147,Steve Whitaker,33.0,LHP,33.0,1.0,Giants,4Yr,0.0,1991.0
+1148,Jorge Fabregas,34.0,3B,34.0,1.0,Angels,4Yr,-2.1,1991.0
+1149,Jeff Ware,35.0,RHP,35.0,1.0,Blue Jays,4Yr,-0.7,1991.0
+1150,Bobby Jones,36.0,RHP,36.0,1.0,Mets,4Yr,7.6,1991.0
+1151,J.J. Johnson,37.0,OF,37.0,1.0,Red Sox,HS,0.0,1991.0
+1152,Mike Rossiter,38.0,RHP,38.0,1.0,Athletics,HS,0.0,1991.0
+1153,Dan Cholowsky,39.0,3B,39.0,1.0,Cardinals,4Yr,0.0,1991.0
+1154,Jimmy Gonzalez,40.0,C,40.0,1.0,Astros,HS,0.0,1991.0
+1155,Trever Miller,41.0,LHP,41.0,1.0,Tigers,HS,5.0,1991.0
+1156,Dante Powell,42.0,SS,42.0,1.0,Blue Jays,HS,-0.2,1991.0
+1157,Scott Hatteberg,43.0,C,43.0,1.0,Red Sox,4Yr,10.1,1991.0
+1158,Mike Groppuso,44.0,3B,44.0,1.0,Astros,4Yr,0.0,1991.0
+1159,Ryan Long,45.0,3B,1.0,2.0,Royals via Yankees,HS,0.0,1991.0
+1160,Eddie Williams,46.0,C,2.0,2.0,Cardinals via Braves,HS,0.0,1991.0
+1161,Mike Durant,47.0,C,3.0,2.0,Twins,4Yr,0.0,1991.0
+1162,Buck McNabb,48.0,OF,4.0,2.0,Astros via Cardinals,HS,0.0,1991.0
+1163,Jim Lewis,49.0,RHP,5.0,2.0,Astros via Brewers,4Yr,0.0,1991.0
+1164,Eddy Ramos,50.0,3B,6.0,2.0,Astros,HS,0.0,1991.0
+1165,Terry Horn,51.0,RHP,7.0,2.0,Red Sox via Royals,HS,0.0,1991.0
+1166,Jon Barnes,52.0,RHP,8.0,2.0,Padres,HS,0.0,1991.0
+1167,Shawn Curran,53.0,C,9.0,2.0,Orioles,HS,0.0,1991.0
+1168,Kevin Stocker,54.0,SS,10.0,2.0,Phillies,4Yr,5.9,1991.0
+1169,Tommy Adams,55.0,OF,11.0,2.0,Mariners,4Yr,0.0,1991.0
+1170,Trevor Mallory,56.0,RHP,12.0,2.0,Blue Jays via Cubs,HS,0.0,1991.0
+1171,Herbert Perry,57.0,3B,13.0,2.0,Indians,4Yr,5.2,1991.0
+1172,Scott Pisciotta,58.0,RHP,14.0,2.0,Expos,HS,0.0,1991.0
+1173,Tarrik Brock,59.0,OF,15.0,2.0,Tigers,HS,-0.1,1991.0
+1174,Mike Neill,60.0,OF,16.0,2.0,Athletics via Giants,4Yr,0.0,1991.0
+1175,Chris Pritchett,61.0,1B,17.0,2.0,Angels,4Yr,-0.7,1991.0
+1176,Rod Pedraza,62.0,RHP,18.0,2.0,Expos via Dodgers,4Yr,0.0,1991.0
+1177,Terrell Lowery,63.0,OF,19.0,2.0,Rangers,4Yr,-0.1,1991.0
+1178,Toby Rumfield,64.0,C,20.0,2.0,Reds,HS,0.0,1991.0
+1179,Dennis Gray,65.0,LHP,21.0,2.0,Blue Jays,4Yr,0.0,1991.0
+1180,Bill Pulsipher,66.0,LHP,22.0,2.0,Mets,HS,0.5,1991.0
+1181,Chad Schoenvogel,67.0,RHP,23.0,2.0,Red Sox,JC,0.0,1991.0
+1182,Dave Doorneweerd,68.0,RHP,24.0,2.0,Pirates,HS,0.0,1991.0
+1183,Larry Thomas,69.0,LHP,25.0,2.0,White Sox,4Yr,1.6,1991.0
+1184,Russ Brock,70.0,RHP,26.0,2.0,Athletics,4Yr,0.0,1991.0
+1185,Judd Wilstead,71.0,RHP,27.0,2.0,Brewers,HS,0.0,1991.0
+1186,Marc Kroon,72.0,RHP,28.0,2.0,Mets,HS,-0.4,1991.0
+1187,Dan Jones,73.0,RHP,29.0,2.0,Pirates,4Yr,0.0,1991.0
+1188,Phil Nevin,1.0,3B,1.0,1.0,Astros,4Yr,15.8,1992.0
+1189,Paul Shuey,2.0,RHP,2.0,1.0,Indians,4Yr,7.0,1992.0
+1190,B.J. Wallace,3.0,LHP,3.0,1.0,Expos,4Yr,0.0,1992.0
+1191,Jeffrey Hammonds,4.0,OF,4.0,1.0,Orioles,4Yr,8.6,1992.0
+1192,Chad Mottola,5.0,OF,5.0,1.0,Reds,4Yr,-0.9,1992.0
+1193,Derek Jeter,6.0,SS,6.0,1.0,Yankees,HS,71.8,1992.0
+1194,Calvin Murray,7.0,OF,7.0,1.0,Giants,4Yr,2.1,1992.0
+1195,Pete Janicki,8.0,RHP,8.0,1.0,Angels,4Yr,0.0,1992.0
+1196,Preston Wilson,9.0,SS,9.0,1.0,Mets,HS,6.3,1992.0
+1197,Michael Tucker,10.0,SS,10.0,1.0,Royals,4Yr,8.1,1992.0
+1198,Derek Wallace,11.0,RHP,11.0,1.0,Cubs,4Yr,0.1,1992.0
+1199,Ken Felder,12.0,OF,12.0,1.0,Brewers,4Yr,0.0,1992.0
+1200,Chad McConnell,13.0,OF,13.0,1.0,Phillies,4Yr,0.0,1992.0
+1201,Ron Villone,14.0,LHP,14.0,1.0,Mariners,4Yr,3.9,1992.0
+1202,Sean Lowe,15.0,RHP,15.0,1.0,Cardinals,4Yr,1.7,1992.0
+1203,Rick Greene,16.0,RHP,16.0,1.0,Tigers,4Yr,-0.1,1992.0
+1204,Jim Pittsley,17.0,RHP,17.0,1.0,Royals via Padres,HS,-1.0,1992.0
+1205,Chris Roberts,18.0,LHP,18.0,1.0,Mets via Red Sox,4Yr,0.0,1992.0
+1206,Shannon Stewart,19.0,OF,19.0,1.0,Blue Jays via Dodgers,HS,24.8,1992.0
+1207,Benji Grigsby,20.0,RHP,20.0,1.0,Athletics,4Yr,0.0,1992.0
+1208,Jamie Arnold,21.0,RHP,21.0,1.0,Braves,HS,-1.6,1992.0
+1209,Rick Helling,22.0,RHP,22.0,1.0,Rangers,4Yr,20.6,1992.0
+1210,Jason Kendall,23.0,C,23.0,1.0,Pirates,HS,41.5,1992.0
+1211,Eddie Pearson,24.0,1B,24.0,1.0,White Sox,JC,0.0,1992.0
+1212,Todd Steverson,25.0,OF,25.0,1.0,Blue Jays,4Yr,-0.3,1992.0
+1213,Dan Serafini,26.0,LHP,26.0,1.0,Twins,HS,-0.7,1992.0
+1214,John Burke,27.0,RHP,27.0,1.0,Rockies,4Yr,-0.5,1992.0
+1215,Charles Johnson,28.0,C,28.0,1.0,Marlins,4Yr,22.6,1992.0
+1216,Jeff Schmidt,29.0,RHP,29.0,1.0,Angels,4Yr,-0.2,1992.0
+1217,Jon Ward,30.0,RHP,30.0,1.0,Mets,HS,0.0,1992.0
+1218,Sherard Clinkscales,31.0,RHP,31.0,1.0,Royals,4Yr,0.0,1992.0
+1219,Ryan Luzinski,32.0,C,32.0,1.0,Dodgers,HS,0.0,1992.0
+1220,Shon Walker,33.0,OF,33.0,1.0,Pirates,HS,0.0,1992.0
+1221,Brandon Cromer,34.0,SS,34.0,1.0,Blue Jays,HS,0.0,1992.0
+1222,Johnny Damon,35.0,OF,35.0,1.0,Royals,HS,56.0,1992.0
+1223,Mike Moore,36.0,OF,36.0,1.0,Dodgers,4Yr,0.0,1992.0
+1224,Kendall Rhine,37.0,RHP,37.0,1.0,Astros,4Yr,0.0,1992.0
+1225,Gabby Martinez,38.0,SS,38.0,1.0,Brewers,HS,0.0,1992.0
+1226,Dave Landaker,39.0,SS,1.0,2.0,Astros,HS,0.0,1992.0
+1227,Mike Matthews,40.0,LHP,2.0,2.0,Indians,JC,0.7,1992.0
+1228,Rod Henderson,41.0,RHP,3.0,2.0,Expos,4Yr,-0.6,1992.0
+1229,Brian Sackinsky,42.0,RHP,4.0,2.0,Orioles,4Yr,0.1,1992.0
+1230,Chad Alexander,43.0,OF,5.0,2.0,Reds,HS,0.0,1992.0
+1231,Jon Lieber,44.0,RHP,6.0,2.0,Royals via Yankees,4Yr,24.3,1992.0
+1232,Jim Rosenbohm,45.0,RHP,7.0,2.0,Giants,JC,0.0,1992.0
+1233,Deshawn Warren,46.0,LHP,8.0,2.0,Angels,HS,0.0,1992.0
+1234,Danny Clyburn,47.0,OF,9.0,2.0,Pirates via Mets,HS,-0.4,1992.0
+1235,Chris Smith,48.0,SS,10.0,2.0,Angels via Royals,HS,0.0,1992.0
+1236,Dwaine Bostic,49.0,SS,11.0,2.0,Dodgers via Cubs,HS,0.0,1992.0
+1237,Bobby Hughes,50.0,C,12.0,2.0,Brewers,4Yr,-0.6,1992.0
+1238,Rick Magdelano,51.0,SS,13.0,2.0,Reds via Phillies,HS,0.0,1992.0
+1239,Bob Wolcott,52.0,RHP,14.0,2.0,Mariners,HS,-0.9,1992.0
+1240,Mike Gulan,53.0,3B,15.0,2.0,Cardinals,4Yr,-0.3,1992.0
+1241,Yuri Sanchez,54.0,SS,16.0,2.0,Tigers,HS,0.0,1992.0
+1242,Todd Helton,55.0,OF,17.0,2.0,Padres,HS,61.2,1992.0
+1243,Tony Sheffield,56.0,OF,18.0,2.0,Red Sox,HS,0.0,1992.0
+1244,Dan Melendez,57.0,1B,19.0,2.0,Dodgers,4Yr,0.0,1992.0
+1245,Jason Giambi,58.0,3B,20.0,2.0,Athletics,4Yr,50.5,1992.0
+1246,Jamie Howard,59.0,RHP,21.0,2.0,Braves,HS,0.0,1992.0
+1247,Ritchie Moody,60.0,LHP,22.0,2.0,Rangers,4Yr,0.0,1992.0
+1248,Trey Beamon,61.0,OF,23.0,2.0,Pirates,HS,-0.8,1992.0
+1249,A.J. Hinch,62.0,C,24.0,2.0,White Sox,HS,0.1,1992.0
+1250,Tim Crabtree,63.0,RHP,25.0,2.0,Blue Jays,4Yr,4.4,1992.0
+1251,Chad Roper,64.0,SS,26.0,2.0,Twins,HS,0.0,1992.0
+1252,Mark Thompson,65.0,RHP,27.0,2.0,Rockies,4Yr,0.1,1992.0
+1253,John Lynch,66.0,RHP,28.0,2.0,Marlins,4Yr,0.0,1992.0
+1254,Marquis Riley,67.0,OF,29.0,2.0,Angels,4Yr,0.0,1992.0
+1255,Tom Knauss,68.0,3B,30.0,2.0,Twins,HS,0.0,1992.0
+1256,Alex Rodriguez,1.0,SS,1.0,1.0,Mariners,HS,117.7,1993.0
+1257,Darren Dreifort,2.0,RHP,2.0,1.0,Dodgers,4Yr,7.9,1993.0
+1258,Brian Anderson,3.0,LHP,3.0,1.0,Angels,4Yr,10.4,1993.0
+1259,Wayne Gomes,4.0,RHP,4.0,1.0,Phillies,4Yr,0.3,1993.0
+1260,Jeff Granger,5.0,LHP,5.0,1.0,Royals,4Yr,-0.9,1993.0
+1261,Steve Soderstrom,6.0,RHP,6.0,1.0,Giants,4Yr,-0.2,1993.0
+1262,Trot Nixon,7.0,OF,7.0,1.0,Red Sox,HS,21.3,1993.0
+1263,Kirk Presley,8.0,RHP,8.0,1.0,Mets,HS,0.0,1993.0
+1264,Matt Brunson,9.0,SS,9.0,1.0,Tigers,HS,0.0,1993.0
+1265,Brooks Kieschnick,10.0,OF,10.0,1.0,Cubs,4Yr,2.2,1993.0
+1266,Daron Kirkreit,11.0,RHP,11.0,1.0,Indians,4Yr,0.0,1993.0
+1267,Billy Wagner,12.0,LHP,12.0,1.0,Astros,4Yr,28.1,1993.0
+1268,Matt Drews,13.0,RHP,13.0,1.0,Yankees,HS,0.0,1993.0
+1269,Derrek Lee,14.0,1B,14.0,1.0,Padres,HS,34.3,1993.0
+1270,Chris Carpenter,15.0,RHP,15.0,1.0,Blue Jays via Rangers,HS,34.5,1993.0
+1271,Alan Benes,16.0,RHP,16.0,1.0,Cardinals,4Yr,1.4,1993.0
+1272,Scott Christman,17.0,LHP,17.0,1.0,White Sox,4Yr,0.0,1993.0
+1273,Chris Schwab,18.0,OF,18.0,1.0,Expos,HS,0.0,1993.0
+1274,Jay Powell,19.0,RHP,19.0,1.0,Orioles,4Yr,3.1,1993.0
+1275,Torii Hunter,20.0,OF,20.0,1.0,Twins via Reds,HS,50.0,1993.0
+1276,Jason Varitek,21.0,C,21.0,1.0,Twins,4Yr,24.3,1993.0
+1277,Charles Peterson,22.0,OF,22.0,1.0,Pirates,HS,0.0,1993.0
+1278,Jeff D'Amico,23.0,RHP,23.0,1.0,Brewers,HS,5.6,1993.0
+1279,Jon Ratliff,24.0,RHP,24.0,1.0,Cubs via Braves,4Yr,0.0,1993.0
+1280,John Wasdin,25.0,RHP,25.0,1.0,Athletics,4Yr,3.2,1993.0
+1281,Kelly Wunsch,26.0,LHP,26.0,1.0,Brewers via Blue Jays,4Yr,3.2,1993.0
+1282,Marc Valdes,27.0,RHP,27.0,1.0,Marlins,4Yr,-1.0,1993.0
+1283,Jamey Wright,28.0,RHP,28.0,1.0,Rockies,HS,9.4,1993.0
+1284,Kevin Orie,29.0,SS,29.0,1.0,Cubs,4Yr,3.1,1993.0
+1285,Mike Bell,30.0,3B,30.0,1.0,Rangers,HS,0.2,1993.0
+1286,Josue Estrada,31.0,OF,31.0,1.0,Expos,HS,0.0,1993.0
+1287,Pat Watkins,32.0,OF,32.0,1.0,Reds,4Yr,-0.6,1993.0
+1288,Marc Barcelo,33.0,RHP,33.0,1.0,Twins,4Yr,0.0,1993.0
+1289,Jermaine Allensworth,34.0,OF,34.0,1.0,Pirates,4Yr,-0.1,1993.0
+1290,Todd Dunn,35.0,OF,35.0,1.0,Brewers,4Yr,0.0,1993.0
+1291,Willie Adams,36.0,RHP,36.0,1.0,Athletics,4Yr,0.9,1993.0
+1292,Matt Farner,37.0,OF,37.0,1.0,Blue Jays,HS,0.0,1993.0
+1293,Kelcey Mucker,38.0,OF,38.0,1.0,Twins,HS,0.0,1993.0
+1294,Joe Wagner,39.0,RHP,39.0,1.0,Brewers,4Yr,0.0,1993.0
+1295,Jeremy Lee,40.0,RHP,40.0,1.0,Blue Jays,HS,0.0,1993.0
+1296,Mark Lukasiewicz,41.0,LHP,41.0,1.0,Blue Jays,JC,-0.1,1993.0
+1297,Charles Rice,42.0,1B,42.0,1.0,Pirates,HS,0.0,1993.0
+1298,Brian Banks,43.0,C,1.0,2.0,Brewers via Mariners,4Yr,-1.1,1993.0
+1299,Nate Dishington,44.0,1B,2.0,2.0,Cardinals via Dodgers,HS,0.0,1993.0
+1300,Ryan Hancock,45.0,RHP,3.0,2.0,Angels,4Yr,-0.3,1993.0
+1301,Scott Rolen,46.0,3B,4.0,2.0,Phillies,HS,70.0,1993.0
+1302,Tony Medrano,47.0,SS,5.0,2.0,Blue Jays via Royals,HS,0.0,1993.0
+1303,Chris Singleton,48.0,OF,6.0,2.0,Giants,4Yr,9.7,1993.0
+1304,Jeff Suppan,49.0,RHP,7.0,2.0,Red Sox,HS,17.4,1993.0
+1305,Eric Ludwick,50.0,RHP,8.0,2.0,Mets,4Yr,-2.6,1993.0
+1306,Tony Fuduric,51.0,RHP,9.0,2.0,Tigers,HS,0.0,1993.0
+1307,Edwin Diaz,52.0,2B,10.0,2.0,Rangers via Cubs,HS,-0.2,1993.0
+1308,Casey Whitten,53.0,LHP,11.0,2.0,Indians,4Yr,0.0,1993.0
+1309,Kevin Pickford,54.0,LHP,12.0,2.0,Pirates via Astros,HS,-0.5,1993.0
+1310,Martin Mainville,55.0,RHP,13.0,2.0,Expos via Yankees,HS,0.0,1993.0
+1311,Matt LaChappa,56.0,LHP,14.0,2.0,Padres,HS,0.0,1993.0
+1312,Ryan Jones,57.0,1B,15.0,2.0,Blue Jays via Rangers,HS,0.0,1993.0
+1313,Jay Witasick,58.0,RHP,16.0,2.0,Cardinals,4Yr,2.7,1993.0
+1314,Greg Norton,59.0,3B,17.0,2.0,White Sox,4Yr,-2.4,1993.0
+1315,Brad Fullmer,60.0,3B,18.0,2.0,Expos,HS,5.8,1993.0
+1316,David Lamb,61.0,SS,19.0,2.0,Orioles,HS,-1.0,1993.0
+1317,Scott Sullivan,62.0,RHP,20.0,2.0,Reds,4Yr,6.7,1993.0
+1318,Dan Perkins,63.0,RHP,21.0,2.0,Twins,HS,-0.3,1993.0
+1319,Jose Delgado,64.0,SS,22.0,2.0,Pirates,HS,0.0,1993.0
+1320,Danny Klassen,65.0,SS,23.0,2.0,Brewers,HS,-1.2,1993.0
+1321,Andre King,66.0,OF,24.0,2.0,Braves,HS,0.0,1993.0
+1322,Jeff D'Amico,67.0,SS,25.0,2.0,Athletics,HS,-0.3,1993.0
+1323,Mike Moschetti,68.0,SS,26.0,2.0,Athletics via Blue Jays,HS,0.0,1993.0
+1324,John Roskos,69.0,C,27.0,2.0,Marlins,HS,-0.6,1993.0
+1325,Bryan Rekar,70.0,RHP,28.0,2.0,Rockies,4Yr,1.9,1993.0
+1326,Macey Brooks,71.0,OF,29.0,2.0,Giants,HS,0.0,1993.0
+1327,Brett King,72.0,SS,30.0,2.0,Giants,4Yr,0.0,1993.0
+1328,Paul Wilson,1.0,RHP,1.0,1.0,Mets,4Yr,2.2,1994.0
+1329,Ben Grieve,2.0,OF,2.0,1.0,Athletics,HS,8.4,1994.0
+1330,Dustin Hermanson,3.0,RHP,3.0,1.0,Padres,4Yr,11.3,1994.0
+1331,Antone Williamson,4.0,3B,4.0,1.0,Brewers,4Yr,-0.8,1994.0
+1332,Josh Booty,5.0,SS,5.0,1.0,Marlins,HS,0.0,1994.0
+1333,McKay Christensen,6.0,OF,6.0,1.0,Angels,HS,-0.3,1994.0
+1334,Doug Million,7.0,LHP,7.0,1.0,Rockies,HS,0.0,1994.0
+1335,Todd Walker,8.0,2B,8.0,1.0,Twins,4Yr,10.5,1994.0
+1336,C.J. Nitkowski,9.0,LHP,9.0,1.0,Reds,4Yr,-0.8,1994.0
+1337,Jaret Wright,10.0,RHP,10.0,1.0,Indians,HS,4.7,1994.0
+1338,Mark Farris,11.0,SS,11.0,1.0,Pirates,HS,0.0,1994.0
+1339,Nomar Garciaparra,12.0,SS,12.0,1.0,Red Sox,4Yr,44.2,1994.0
+1340,Paul Konerko,13.0,C,13.0,1.0,Dodgers,HS,27.6,1994.0
+1341,Jason Varitek,14.0,C,14.0,1.0,Mariners,4Yr,24.3,1994.0
+1342,Jay Peterson,15.0,RHP,15.0,1.0,Cubs,HS,0.0,1994.0
+1343,Matt Smith,16.0,LHP,16.0,1.0,Royals,HS,0.0,1994.0
+1344,Ramon Castro,17.0,C,17.0,1.0,Astros,HS,3.1,1994.0
+1345,Cade Gaspar,18.0,RHP,18.0,1.0,Tigers,4Yr,0.0,1994.0
+1346,Bret Wagner,19.0,LHP,19.0,1.0,Cardinals,4Yr,0.0,1994.0
+1347,Terrence Long,20.0,1B,20.0,1.0,Mets via Orioles,HS,5.1,1994.0
+1348,Hiram Bocachica,21.0,SS,21.0,1.0,Expos,HS,0.2,1994.0
+1349,Dante Powell,22.0,OF,22.0,1.0,Giants via Rangers,4Yr,-0.2,1994.0
+1350,Carlton Loewer,23.0,RHP,23.0,1.0,Phillies,4Yr,-1.7,1994.0
+1351,Brian Buchanan,24.0,1B,24.0,1.0,Yankees,4Yr,0.5,1994.0
+1352,Scott Elarton,25.0,RHP,25.0,1.0,Astros via Giants,HS,2.5,1994.0
+1353,Mark Johnson,26.0,C,26.0,1.0,White Sox,HS,2.0,1994.0
+1354,Jacob Shumate,27.0,RHP,27.0,1.0,Braves,HS,0.0,1994.0
+1355,Kevin Witt,28.0,SS,28.0,1.0,Blue Jays,HS,-1.6,1994.0
+1356,Jay Payton,29.0,OF,29.0,1.0,Mets,4Yr,15.4,1994.0
+1357,Russ Johnson,30.0,SS,30.0,1.0,Astros,4Yr,2.7,1994.0
+1358,Mike Thurman,31.0,RHP,31.0,1.0,Expos,4Yr,0.2,1994.0
+1359,Jacob Cruz,32.0,OF,32.0,1.0,Giants,4Yr,0.4,1994.0
+1360,Chris Clemons,33.0,RHP,33.0,1.0,White Sox,4Yr,-0.3,1994.0
+1361,Travis Miller,34.0,LHP,34.0,1.0,Twins,4Yr,1.3,1994.0
+1362,Sean Johnston,35.0,LHP,1.0,2.0,Mets,HS,0.0,1994.0
+1363,Brad Rigby,36.0,RHP,2.0,2.0,Athletics,4Yr,0.5,1994.0
+1364,Troy Glaus,37.0,3B,3.0,2.0,Padres,HS,37.9,1994.0
+1365,Doug Webb,38.0,RHP,4.0,2.0,Brewers,4Yr,0.0,1994.0
+1366,Victor Rodriguez,39.0,SS,5.0,2.0,Marlins,HS,0.0,1994.0
+1367,Norm Hutchins,40.0,OF,6.0,2.0,Angels,HS,0.0,1994.0
+1368,John Ambrose,41.0,RHP,7.0,2.0,White Sox via Rockies,JC,0.0,1994.0
+1369,Cleatus Davidson,42.0,SS,8.0,2.0,Twins,HS,-0.1,1994.0
+1370,Tony Terry,43.0,OF,9.0,2.0,Reds,HS,0.0,1994.0
+1371,Jason Camilli,44.0,SS,10.0,2.0,Expos via Indians,HS,0.0,1994.0
+1372,Roger Goedde,45.0,RHP,11.0,2.0,Pirates,HS,0.0,1994.0
+1373,Corey Pointer,46.0,C,12.0,2.0,Braves via Red Sox,HS,0.0,1994.0
+1374,Gary Rath,47.0,LHP,13.0,2.0,Dodgers,4Yr,-0.3,1994.0
+1375,Trey Moore,48.0,LHP,14.0,2.0,Mariners,4Yr,-0.4,1994.0
+1376,Brian Stephenson,49.0,RHP,15.0,2.0,Cubs,4Yr,0.0,1994.0
+1377,Jed Hansen,50.0,2B,16.0,2.0,Royals,4Yr,-0.3,1994.0
+1378,Dan Lock,51.0,LHP,17.0,2.0,Astros,4Yr,0.0,1994.0
+1379,Mike Darr,52.0,OF,18.0,2.0,Tigers,HS,2.5,1994.0
+1380,Carl Dale,53.0,RHP,19.0,2.0,Cardinals,4Yr,-0.4,1994.0
+1381,Tommy Davis,54.0,1B,20.0,2.0,Orioles,4Yr,-0.1,1994.0
+1382,Ken Henderson,55.0,RHP,21.0,2.0,Expos,4Yr,0.0,1994.0
+1383,Kevin Brown,56.0,C,22.0,2.0,Rangers,4Yr,0.7,1994.0
+1384,Ryan Nye,57.0,RHP,23.0,2.0,Phillies,4Yr,-0.5,1994.0
+1385,Rod Smith,58.0,OF,24.0,2.0,Yankees,HS,0.0,1994.0
+1386,Andy Taulbee,59.0,RHP,25.0,2.0,Giants,4Yr,0.0,1994.0
+1387,Jerry Whittaker,60.0,OF,26.0,2.0,White Sox,4Yr,0.0,1994.0
+1388,George Lombard,61.0,OF,27.0,2.0,Braves,HS,-0.8,1994.0
+1389,John Crowther,62.0,RHP,28.0,2.0,Blue Jays,4Yr,0.0,1994.0
+1390,Matt LeCroy,63.0,C,29.0,2.0,Mets,HS,0.4,1994.0
+1391,Darin Erstad,1.0,OF,1.0,1.0,Angels,4Yr,32.3,1995.0
+1392,Ben Davis,2.0,C,2.0,1.0,Padres,HS,2.9,1995.0
+1393,Jose Cruz,3.0,OF,3.0,1.0,Mariners,4Yr,19.5,1995.0
+1394,Kerry Wood,4.0,RHP,4.0,1.0,Cubs,HS,27.7,1995.0
+1395,Ariel Prieto,5.0,RHP,5.0,1.0,Athletics,,3.3,1995.0
+1396,Jaime Jones,6.0,OF,6.0,1.0,Marlins,HS,0.0,1995.0
+1397,Jonathan Johnson,7.0,RHP,7.0,1.0,Rangers,4Yr,-0.9,1995.0
+1398,Todd Helton,8.0,1B,8.0,1.0,Rockies,4Yr,61.2,1995.0
+1399,Geoff Jenkins,9.0,OF,9.0,1.0,Brewers,4Yr,21.9,1995.0
+1400,Chad Hermansen,10.0,SS,10.0,1.0,Pirates,HS,-3.6,1995.0
+1401,Mike Drumright,11.0,RHP,11.0,1.0,Tigers,4Yr,0.0,1995.0
+1402,Matt Morris,12.0,RHP,12.0,1.0,Cardinals,4Yr,20.5,1995.0
+1403,Mark Redman,13.0,LHP,13.0,1.0,Twins,4Yr,9.5,1995.0
+1404,Reggie Taylor,14.0,OF,14.0,1.0,Phillies,HS,-0.5,1995.0
+1405,Andy Yount,15.0,RHP,15.0,1.0,Red Sox,HS,0.0,1995.0
+1406,Joe Fontenot,16.0,RHP,16.0,1.0,Giants,HS,-0.8,1995.0
+1407,Roy Halladay,17.0,RHP,17.0,1.0,Blue Jays,HS,64.7,1995.0
+1408,Ryan Jaroncyk,18.0,SS,18.0,1.0,Mets,HS,0.0,1995.0
+1409,Juan LeBron,19.0,OF,19.0,1.0,Royals,HS,0.0,1995.0
+1410,David Yocum,20.0,LHP,20.0,1.0,Dodgers,4Yr,0.0,1995.0
+1411,Al Shepherd,21.0,RHP,21.0,1.0,Orioles,4Yr,0.0,1995.0
+1412,Tony McKnight,22.0,RHP,22.0,1.0,Astros,HS,0.8,1995.0
+1413,David Miller,23.0,1B,23.0,1.0,Indians,4Yr,0.0,1995.0
+1414,Corey Jenkins,24.0,OF,24.0,1.0,Red Sox via Reds,HS,0.0,1995.0
+1415,Jeff Liefer,25.0,3B,25.0,1.0,White Sox,4Yr,-2.8,1995.0
+1416,Chad Hutchinson,26.0,RHP,26.0,1.0,Braves,HS,-0.5,1995.0
+1417,Shea Morenz,27.0,OF,27.0,1.0,Yankees,4Yr,0.0,1995.0
+1418,Michael Barrett,28.0,SS,28.0,1.0,Expos,HS,2.7,1995.0
+1419,Chris Haas,29.0,3B,29.0,1.0,Cardinals,HS,0.0,1995.0
+1420,Dave Coggin,30.0,RHP,30.0,1.0,Phillies,HS,0.3,1995.0
+1421,Jarrod Washburn,31.0,LHP,1.0,2.0,Angels,4Yr,28.5,1995.0
+1422,Gabe Alvarez,32.0,SS,2.0,2.0,Padres,4Yr,-1.4,1995.0
+1423,Shane Monahan,33.0,OF,3.0,2.0,Mariners,4Yr,-0.6,1995.0
+1424,Brian McNichol,34.0,LHP,4.0,2.0,Cubs,4Yr,-0.1,1995.0
+1425,Mark Bellhorn,35.0,SS,5.0,2.0,Athletics,4Yr,8.0,1995.0
+1426,Nate Rolison,36.0,1B,6.0,2.0,Marlins,HS,-0.3,1995.0
+1427,Phil Lowery,37.0,LHP,7.0,2.0,Rangers,HS,0.0,1995.0
+1428,Ben Petrick,38.0,C,8.0,2.0,Rockies,HS,0.5,1995.0
+1429,Mike Pasqualicchio,39.0,LHP,9.0,2.0,Brewers,4Yr,0.0,1995.0
+1430,Garrett Long,40.0,1B,10.0,2.0,Pirates,HS,0.0,1995.0
+1431,Brian Powell,41.0,RHP,11.0,2.0,Tigers,4Yr,-1.1,1995.0
+1432,Marlon Anderson,42.0,2B,12.0,2.0,Phillies via Cardinals,4Yr,7.3,1995.0
+1433,Jason Bell,43.0,RHP,13.0,2.0,Twins,4Yr,0.0,1995.0
+1434,Jay Woolf,44.0,SS,14.0,2.0,Cardinals via Phillies,HS,0.0,1995.0
+1435,Jose Olmeda,45.0,SS,15.0,2.0,Red Sox,HS,0.0,1995.0
+1436,Jason Brester,46.0,LHP,16.0,2.0,Giants,HS,0.0,1995.0
+1437,Craig Wilson,47.0,C,17.0,2.0,Blue Jays,HS,3.5,1995.0
+1438,Brett Herbison,48.0,RHP,18.0,2.0,Mets,HS,0.0,1995.0
+1439,Carlos Beltran,49.0,OF,19.0,2.0,Royals,HS,69.9,1995.0
+1440,Darrin Babineaux,50.0,RHP,20.0,2.0,Dodgers,4Yr,0.0,1995.0
+1441,Chip Alley,51.0,C,21.0,2.0,Orioles,HS,0.0,1995.0
+1442,Eric Ireland,52.0,RHP,22.0,2.0,Astros,HS,0.0,1995.0
+1443,Sean Casey,53.0,1B,23.0,2.0,Indians,4Yr,16.3,1995.0
+1444,Brett Tomko,54.0,RHP,24.0,2.0,Reds,4Yr,11.0,1995.0
+1445,Brian Simmons,55.0,OF,25.0,2.0,White Sox,4Yr,0.1,1995.0
+1446,Jim Scharrer,56.0,1B,26.0,2.0,Braves,HS,0.0,1995.0
+1447,Rich Brown,57.0,OF,27.0,2.0,Yankees,HS,0.0,1995.0
+1448,Henry Mateo,58.0,SS,28.0,2.0,Expos,HS,-0.8,1995.0
+1449,Brian Buchanan,59.0,LHP,29.0,2.0,Yankees,HS,0.0,1995.0
+1450,Kris Benson,1.0,RHP,1.0,1.0,Pirates,4Yr,13.0,1996.0
+1451,Travis Lee,2.0,1B,2.0,1.0,Twins,4Yr,7.2,1996.0
+1452,Braden Looper,3.0,RHP,3.0,1.0,Cardinals,4Yr,8.8,1996.0
+1453,Billy Koch,4.0,RHP,4.0,1.0,Blue Jays,4Yr,5.6,1996.0
+1454,John Patterson,5.0,RHP,5.0,1.0,Expos,HS,5.1,1996.0
+1455,Seth Greisinger,6.0,RHP,6.0,1.0,Tigers,4Yr,0.0,1996.0
+1456,Matt White,7.0,RHP,7.0,1.0,Giants,HS,0.0,1996.0
+1457,Chad Green,8.0,OF,8.0,1.0,Brewers,4Yr,0.0,1996.0
+1458,Mark Kotsay,9.0,OF,9.0,1.0,Marlins,4Yr,21.5,1996.0
+1459,Eric Chavez,10.0,3B,10.0,1.0,Athletics,HS,37.4,1996.0
+1460,Adam Eaton,11.0,RHP,11.0,1.0,Phillies,HS,5.3,1996.0
+1461,Bobby Seay,12.0,LHP,12.0,1.0,White Sox,HS,3.2,1996.0
+1462,Rob Stratton,13.0,OF,13.0,1.0,Mets,HS,0.0,1996.0
+1463,Dee Brown,14.0,OF,14.0,1.0,Royals,HS,-2.9,1996.0
+1464,Matt Halloran,15.0,SS,15.0,1.0,Padres,HS,0.0,1996.0
+1465,Joe Lawrence,16.0,SS,16.0,1.0,Blue Jays via Orioles,HS,-1.1,1996.0
+1466,Todd Noel,17.0,RHP,17.0,1.0,Cubs,HS,0.0,1996.0
+1467,R.A. Dickey,18.0,RHP,18.0,1.0,Rangers,4Yr,23.9,1996.0
+1468,Mark Johnson,19.0,RHP,19.0,1.0,Astros,4Yr,-0.5,1996.0
+1469,Eric Milton,20.0,LHP,20.0,1.0,Yankees via Angels,4Yr,16.6,1996.0
+1470,Jake Westbrook,21.0,RHP,21.0,1.0,Rockies,HS,13.3,1996.0
+1471,Gil Meche,22.0,RHP,22.0,1.0,Mariners,HS,17.1,1996.0
+1472,Damian Rolls,23.0,3B,23.0,1.0,Dodgers,HS,-0.3,1996.0
+1473,Sam Marsonek,24.0,RHP,24.0,1.0,Rangers via Yankees,HS,0.1,1996.0
+1474,Johnny Oliver,25.0,OF,25.0,1.0,Reds,HS,0.0,1996.0
+1475,Josh Garrett,26.0,RHP,26.0,1.0,Red Sox,HS,0.0,1996.0
+1476,A.J. Zapp,27.0,1B,27.0,1.0,Braves,HS,0.0,1996.0
+1477,Danny Peoples,28.0,1B,28.0,1.0,Indians,4Yr,0.0,1996.0
+1478,Paul Wilder,29.0,OF,29.0,1.0,Rays,HS,0.0,1996.0
+1479,Nick Bierbrodt,30.0,LHP,30.0,1.0,D'backs,HS,-1.0,1996.0
+1480,Pete Tucci,31.0,1B,31.0,1.0,Blue Jays,4Yr,0.0,1996.0
+1481,Corey Lee,32.0,LHP,32.0,1.0,Rangers,4Yr,-0.3,1996.0
+1482,Matt McClendon,33.0,RHP,33.0,1.0,Reds,HS,0.0,1996.0
+1483,Chris Reitsma,34.0,RHP,34.0,1.0,Red Sox,HS,0.9,1996.0
+1484,Jason Marquis,35.0,RHP,35.0,1.0,Braves,HS,8.5,1996.0
+1485,Andy Prater,36.0,RHP,1.0,2.0,Pirates,HS,0.0,1996.0
+1486,Jacque Jones,37.0,OF,2.0,2.0,Twins,4Yr,11.5,1996.0
+1487,Buddy Carlyle,38.0,LHP,3.0,2.0,Reds via Cardinals,HS,-1.2,1996.0
+1488,Gary Locurto,39.0,1B,4.0,2.0,Red Sox via Blue Jays,HS,0.0,1996.0
+1489,Milton Bradley,40.0,OF,5.0,2.0,Expos,HS,16.7,1996.0
+1490,Matt Miller,41.0,LHP,6.0,2.0,Tigers,4Yr,-0.4,1996.0
+1491,Mike Caruso,42.0,SS,7.0,2.0,Giants,HS,0.8,1996.0
+1492,Jose Garcia,43.0,RHP,8.0,2.0,Brewers,HS,0.0,1996.0
+1493,Brent Abernathy,44.0,SS,9.0,2.0,Blue Jays via Marlins,HS,0.0,1996.0
+1494,Joe Espada,45.0,SS,10.0,2.0,Athletics,4Yr,0.0,1996.0
+1495,Jimmy Rollins,46.0,SS,11.0,2.0,Phillies,HS,46.0,1996.0
+1496,Josh Paul,47.0,OF,12.0,2.0,White Sox,4Yr,0.3,1996.0
+1497,Brendan Behn,48.0,LHP,13.0,2.0,Mets,JC,0.0,1996.0
+1498,Taylor Myers,49.0,RHP,14.0,2.0,Royals,HS,0.0,1996.0
+1499,Vernon Maxwell,50.0,OF,15.0,2.0,Padres,HS,0.0,1996.0
+1500,Brian Falkenborg,51.0,RHP,16.0,2.0,Orioles,HS,-0.8,1996.0
+1501,Quincy Carter,52.0,OF,17.0,2.0,Cubs,HS,0.0,1996.0
+1502,Derrick Cook,53.0,RHP,18.0,2.0,Rangers,4Yr,0.0,1996.0
+1503,John Huber,54.0,RHP,19.0,2.0,Astros,HS,0.0,1996.0
+1504,Chuck Abbott,55.0,SS,20.0,2.0,Angels,4Yr,0.0,1996.0
+1505,John Nicholson,56.0,RHP,21.0,2.0,Rockies,HS,0.0,1996.0
+1506,Jeff Farnsworth,57.0,RHP,22.0,2.0,Mariners,JC,-0.2,1996.0
+1507,Josh Glassey,58.0,C,23.0,2.0,Dodgers,HS,0.0,1996.0
+1508,Jason Coble,59.0,LHP,24.0,2.0,Yankees,HS,0.0,1996.0
+1509,Randi Mallard,60.0,RHP,25.0,2.0,Reds,JC,0.0,1996.0
+1510,Jason Sekany,61.0,RHP,26.0,2.0,Red Sox,4Yr,0.0,1996.0
+1511,Eric Munson,62.0,C,27.0,2.0,Braves,HS,-1.4,1996.0
+1512,Ryan McDermott,63.0,RHP,28.0,2.0,Indians,HS,0.0,1996.0
+1513,Doug Johnson,64.0,1B,29.0,2.0,Rays,HS,0.0,1996.0
+1514,Jerry Proctor,65.0,OF,30.0,2.0,D'backs,HS,0.0,1996.0
+1515,Matt Anderson,1.0,RHP,1.0,1.0,Tigers,4Yr,-0.5,1997.0
+1516,J.D. Drew,2.0,OF,2.0,1.0,Phillies,4Yr,44.9,1997.0
+1517,Troy Glaus,3.0,3B,3.0,1.0,Angels,4Yr,37.9,1997.0
+1518,Jason Grilli,4.0,RHP,4.0,1.0,Giants,4Yr,4.6,1997.0
+1519,Vernon Wells,5.0,OF,5.0,1.0,Blue Jays,HS,28.7,1997.0
+1520,Geoff Goetz,6.0,LHP,6.0,1.0,Mets,HS,0.0,1997.0
+1521,Dan Reichert,7.0,RHP,7.0,1.0,Royals,4Yr,0.0,1997.0
+1522,J.J. Davis,8.0,1B,8.0,1.0,Pirates,HS,-1.3,1997.0
+1523,Michael Cuddyer,9.0,SS,9.0,1.0,Twins,HS,16.7,1997.0
+1524,Jon Garland,10.0,RHP,10.0,1.0,Cubs,HS,22.4,1997.0
+1525,Chris Enochs,11.0,RHP,11.0,1.0,Athletics,4Yr,0.0,1997.0
+1526,Aaron Akin,12.0,RHP,12.0,1.0,Marlins,JC,0.0,1997.0
+1527,Kyle Peterson,13.0,RHP,13.0,1.0,Brewers,4Yr,0.3,1997.0
+1528,Brandon Larson,14.0,SS,14.0,1.0,Reds,4Yr,-0.9,1997.0
+1529,Jason Dellaero,15.0,SS,15.0,1.0,White Sox,4Yr,-0.9,1997.0
+1530,Lance Berkman,16.0,1B,16.0,1.0,Astros,4Yr,51.7,1997.0
+1531,John Curtice,17.0,LHP,17.0,1.0,Red Sox,HS,0.0,1997.0
+1532,Mark Mangum,18.0,RHP,18.0,1.0,Rockies,HS,0.0,1997.0
+1533,Ryan Anderson,19.0,LHP,19.0,1.0,Mariners,HS,0.0,1997.0
+1534,Adam Kennedy,20.0,SS,20.0,1.0,Cardinals,4Yr,21.0,1997.0
+1535,Eric DuBose,21.0,LHP,21.0,1.0,Athletics via Orioles,4Yr,1.1,1997.0
+1536,Jayson Werth,22.0,C,22.0,1.0,Orioles,HS,29.1,1997.0
+1537,Donnie Bridges,23.0,RHP,23.0,1.0,Expos,HS,0.0,1997.0
+1538,Tyrell Godwin,24.0,OF,24.0,1.0,Yankees via Rangers,HS,-0.1,1997.0
+1539,Glenn Davis,25.0,1B,25.0,1.0,Dodgers,4Yr,0.0,1997.0
+1540,Darnell McDonald,26.0,OF,26.0,1.0,Orioles via Yankees,HS,0.9,1997.0
+1541,Kevin Nicholson,27.0,SS,27.0,1.0,Padres,4Yr,0.1,1997.0
+1542,Tim Drew,28.0,RHP,28.0,1.0,Indians,HS,-2.3,1997.0
+1543,Troy Cameron,29.0,SS,29.0,1.0,Braves,HS,0.0,1997.0
+1544,Jack Cust,30.0,1B,30.0,1.0,D'backs,HS,9.3,1997.0
+1545,Jason Standridge,31.0,RHP,31.0,1.0,Rays,HS,-0.6,1997.0
+1546,Nathan Haynes,32.0,OF,32.0,1.0,Athletics,HS,-0.7,1997.0
+1547,Kyle Kane,33.0,RHP,33.0,1.0,White Sox,JC,0.0,1997.0
+1548,Brett Caradonna,34.0,OF,34.0,1.0,White Sox,HS,0.0,1997.0
+1549,Mark Fischer,35.0,OF,35.0,1.0,Red Sox,4Yr,0.0,1997.0
+1550,Ntema Ndungidi,36.0,OF,36.0,1.0,Orioles,HS,0.0,1997.0
+1551,Chris Stowe,37.0,RHP,37.0,1.0,Expos,HS,0.0,1997.0
+1552,Scott Hodges,38.0,SS,38.0,1.0,Expos,HS,0.0,1997.0
+1553,Jason Romano,39.0,3B,39.0,1.0,Rangers,HS,-1.3,1997.0
+1554,Ryan Bradley,40.0,RHP,40.0,1.0,Yankees,4Yr,-0.1,1997.0
+1555,Jason Fitzgerald,41.0,OF,41.0,1.0,Indians,4Yr,0.0,1997.0
+1556,Denny Wagner,42.0,RHP,42.0,1.0,Athletics,4Yr,0.0,1997.0
+1557,Aaron Myette,43.0,RHP,43.0,1.0,White Sox,JC,-2.6,1997.0
+1558,Bryan Hebson,44.0,RHP,44.0,1.0,Expos,4Yr,-0.1,1997.0
+1559,Tom Pittman,45.0,1B,45.0,1.0,Expos,HS,0.0,1997.0
+1560,Jim Parque,46.0,LHP,46.0,1.0,White Sox,4Yr,2.5,1997.0
+1561,T.J. Tucker,47.0,RHP,47.0,1.0,Expos,HS,0.7,1997.0
+1562,Shane Arthurs,48.0,RHP,48.0,1.0,Expos,HS,0.0,1997.0
+1563,Dan McKinley,49.0,OF,49.0,1.0,Giants,4Yr,0.0,1997.0
+1564,Matt LeCroy,50.0,C,50.0,1.0,Twins,4Yr,0.4,1997.0
+1565,Rocky Biddle,51.0,RHP,51.0,1.0,White Sox,4Yr,-3.1,1997.0
+1566,Tootie Myers,52.0,OF,52.0,1.0,Expos,HS,0.0,1997.0
+1567,Shane Loux,53.0,RHP,1.0,2.0,Tigers,HS,-1.5,1997.0
+1568,Randy Wolf,54.0,LHP,2.0,2.0,Phillies,4Yr,23.1,1997.0
+1569,Brandon Parker,55.0,RHP,3.0,2.0,Mariners via Angels,4Yr,0.0,1997.0
+1570,Scott Linebrink,56.0,RHP,4.0,2.0,Giants,4Yr,9.6,1997.0
+1571,Aaron Capista,57.0,SS,5.0,2.0,Red Sox via Blue Jays,HS,0.0,1997.0
+1572,Tyler Walker,58.0,RHP,6.0,2.0,Mets,4Yr,2.2,1997.0
+1573,Dane Sardinha,59.0,C,7.0,2.0,Royals,HS,-1.0,1997.0
+1574,Jose Nicolas,60.0,OF,8.0,2.0,Pirates,HS,0.0,1997.0
+1575,Michael Restovich,61.0,OF,9.0,2.0,Twins,HS,-0.5,1997.0
+1576,Jeff Weaver,62.0,RHP,10.0,2.0,White Sox via Cubs,4Yr,15.5,1997.0
+1577,Chad Harville,63.0,RHP,11.0,2.0,Athletics,4Yr,-0.9,1997.0
+1578,Jeff Bailey,64.0,C,12.0,2.0,Marlins,HS,0.0,1997.0
+1579,Alvin Morrow,65.0,OF,13.0,2.0,Brewers,HS,0.0,1997.0
+1580,Travis Dawkins,66.0,SS,14.0,2.0,Reds,HS,-1.2,1997.0
+1581,Edgar Cruz,67.0,C,15.0,2.0,Indians via White Sox,HS,0.0,1997.0
+1582,Cameron Hahn,68.0,C,16.0,2.0,Astros,HS,0.0,1997.0
+1583,Eric Glaser,69.0,RHP,17.0,2.0,Red Sox,HS,0.0,1997.0
+1584,Aaron Cook,70.0,RHP,18.0,2.0,Rockies,HS,15.9,1997.0
+1585,Patrick Boyd,71.0,OF,19.0,2.0,Mariners,HS,0.0,1997.0
+1586,Rick Ankiel,72.0,LHP,20.0,2.0,Cardinals,HS,8.7,1997.0
+1587,Sean Douglass,73.0,RHP,21.0,2.0,Orioles,HS,-1.2,1997.0
+1588,Kris Tetz,74.0,RHP,22.0,2.0,Expos,HS,0.0,1997.0
+1589,Jason Grabowski,75.0,C,23.0,2.0,Rangers,4Yr,-1.9,1997.0
+1590,Chase Utley,76.0,SS,24.0,2.0,Dodgers,HS,65.4,1997.0
+1591,Chris Tynan,77.0,RHP,25.0,2.0,Rangers via Yankees,HS,0.0,1997.0
+1592,Ben Howard,78.0,RHP,26.0,2.0,Padres,HS,-0.6,1997.0
+1593,Rob Vael,79.0,RHP,27.0,2.0,Indians,JC,0.0,1997.0
+1594,Joey Nation,80.0,LHP,28.0,2.0,Braves,HS,-0.1,1997.0
+1595,Jason Royer,81.0,RHP,29.0,2.0,D'backs,HS,0.0,1997.0
+1596,Kenny Kelly,82.0,OF,30.0,2.0,Rays,HS,-0.1,1997.0
+1597,Steve Colyer,83.0,LHP,31.0,2.0,Dodgers,HS,0.0,1997.0
+1598,Jason Henry,84.0,RHP,32.0,2.0,Yankees,4Yr,0.0,1997.0
+1599,Pat Burrell,1.0,3B,1.0,1.0,Phillies,4Yr,18.8,1998.0
+1600,Mark Mulder,2.0,LHP,2.0,1.0,Athletics,4Yr,20.0,1998.0
+1601,Corey Patterson,3.0,OF,3.0,1.0,Cubs,HS,9.6,1998.0
+1602,Jeff Austin,4.0,RHP,4.0,1.0,Royals,4Yr,-0.7,1998.0
+1603,J.D. Drew,5.0,OF,5.0,1.0,Cardinals,4Yr,44.9,1998.0
+1604,Ryan Mills,6.0,LHP,6.0,1.0,Twins,4Yr,0.0,1998.0
+1605,Austin Kearns,7.0,OF,7.0,1.0,Reds,HS,12.8,1998.0
+1606,Felipe Lopez,8.0,SS,8.0,1.0,Blue Jays,HS,7.6,1998.0
+1607,Sean Burroughs,9.0,3B,9.0,1.0,Padres,HS,5.4,1998.0
+1608,Carlos Pena,10.0,1B,10.0,1.0,Rangers,4Yr,25.1,1998.0
+1609,Josh McKinley,11.0,SS,11.0,1.0,Expos,HS,0.0,1998.0
+1610,Adam Everett,12.0,SS,12.0,1.0,Red Sox,4Yr,12.6,1998.0
+1611,J.M. Gold,13.0,RHP,13.0,1.0,Brewers,HS,0.0,1998.0
+1612,Jeff Weaver,14.0,RHP,14.0,1.0,Tigers,4Yr,15.5,1998.0
+1613,Clint Johnston,15.0,LHP,15.0,1.0,Pirates,4Yr,0.0,1998.0
+1614,Kip Wells,16.0,RHP,16.0,1.0,White Sox,4Yr,8.3,1998.0
+1615,Brad Lidge,17.0,RHP,17.0,1.0,Astros via Rockies,4Yr,8.2,1998.0
+1616,Seth Etherton,18.0,RHP,18.0,1.0,Angels,4Yr,-0.6,1998.0
+1617,Tony Torcato,19.0,3B,19.0,1.0,Giants via Astros,HS,-0.1,1998.0
+1618,CC Sabathia,20.0,LHP,20.0,1.0,Indians,HS,61.6,1998.0
+1619,Jason Tyner,21.0,OF,21.0,1.0,Mets,4Yr,2.4,1998.0
+1620,Matt Thornton,22.0,LHP,22.0,1.0,Mariners,4Yr,14.0,1998.0
+1621,Bubba Crosby,23.0,OF,23.0,1.0,Dodgers,4Yr,-1.5,1998.0
+1622,Andy Brown,24.0,OF,24.0,1.0,Yankees,HS,0.0,1998.0
+1623,Nate Bump,25.0,RHP,25.0,1.0,Giants,4Yr,-0.6,1998.0
+1624,Rick Elder,26.0,OF,26.0,1.0,Orioles,HS,0.0,1998.0
+1625,Chip Ambres,27.0,OF,27.0,1.0,Marlins,HS,0.0,1998.0
+1626,Matt Roney,28.0,RHP,28.0,1.0,Rockies via Braves,HS,0.0,1998.0
+1627,Arturo McDowell,29.0,OF,29.0,1.0,Giants via Devil Rays,HS,0.0,1998.0
+1628,Matt Burch,30.0,RHP,30.0,1.0,Royals via Diamondbacks,4Yr,0.0,1998.0
+1629,Chris George,31.0,LHP,31.0,1.0,Royals,HS,-0.4,1998.0
+1630,Ben Diggins,32.0,1B,32.0,1.0,Cardinals,HS,-0.7,1998.0
+1631,Brad Wilkerson,33.0,OF,33.0,1.0,Expos,4Yr,11.0,1998.0
+1632,Nate Cornejo,34.0,RHP,34.0,1.0,Tigers,HS,0.0,1998.0
+1633,Aaron Rowand,35.0,OF,35.0,1.0,White Sox,4Yr,20.8,1998.0
+1634,Choo Freeman,36.0,OF,36.0,1.0,Rockies,HS,-1.7,1998.0
+1635,Mike Nannini,37.0,RHP,37.0,1.0,Astros,HS,0.0,1998.0
+1636,Chris Jones,38.0,LHP,38.0,1.0,Giants,HS,0.0,1998.0
+1637,Mamon Tucker,39.0,OF,39.0,1.0,Orioles,HS,0.0,1998.0
+1638,Jeff Winchester,40.0,C,40.0,1.0,Rockies,HS,0.0,1998.0
+1639,Jeff Urban,41.0,LHP,41.0,1.0,Giants,4Yr,0.0,1998.0
+1640,Eric Valent,42.0,OF,42.0,1.0,Phillies,4Yr,-0.9,1998.0
+1641,Mark Prior,43.0,RHP,43.0,1.0,Yankees,HS,16.6,1998.0
+1642,Brad Baisley,44.0,RHP,1.0,2.0,Phillies,HS,0.0,1998.0
+1643,Gerald Laird,45.0,C,2.0,2.0,Athletics,HS,6.6,1998.0
+1644,David Kelton,46.0,3B,3.0,2.0,Cubs,HS,-0.1,1998.0
+1645,Robbie Morrison,47.0,RHP,4.0,2.0,Royals,4Yr,0.0,1998.0
+1646,Chad Hutchinson,48.0,RHP,5.0,2.0,Cardinals,4Yr,-0.5,1998.0
+1647,Marcus Sents,49.0,RHP,6.0,2.0,Twins,HS,0.0,1998.0
+1648,Adam Dunn,50.0,OF,7.0,2.0,Reds,HS,16.9,1998.0
+1649,Ben Knapp,51.0,RHP,8.0,2.0,Orioles via Blue Jays,HS,0.0,1998.0
+1650,Matt Belisle,52.0,RHP,9.0,2.0,Braves via Padres,HS,8.1,1998.0
+1651,Cody Nowlin,53.0,OF,10.0,2.0,Rangers,HS,0.0,1998.0
+1652,Eric Good,54.0,LHP,11.0,2.0,Expos,HS,0.0,1998.0
+1653,Tim Lemon,55.0,OF,12.0,2.0,Cardinals via Red Sox,HS,0.0,1998.0
+1654,Nick Neugebauer,56.0,RHP,13.0,2.0,Brewers,HS,-0.2,1998.0
+1655,Brandon Inge,57.0,C,14.0,2.0,Tigers,4Yr,19.0,1998.0
+1656,Jeremy Cotton,58.0,3B,15.0,2.0,Pirates,HS,0.0,1998.0
+1657,Gary Majewski,59.0,RHP,16.0,2.0,White Sox,HS,-0.1,1998.0
+1658,Jermaine Van Buren,60.0,RHP,17.0,2.0,Rockies,HS,-0.5,1998.0
+1659,Brandon Emanuel,61.0,RHP,18.0,2.0,Angels,4Yr,0.0,1998.0
+1660,Jeff Goldbach,62.0,C,19.0,2.0,Cubs via Astros,HS,0.0,1998.0
+1661,Zach Sorensen,63.0,SS,20.0,2.0,Indians,4Yr,-0.3,1998.0
+1662,Pat Strange,64.0,RHP,21.0,2.0,Mets,HS,-0.4,1998.0
+1663,Jeff Verplancke,65.0,RHP,22.0,2.0,Mariners,4Yr,0.0,1998.0
+1664,Mike Fischer,66.0,RHP,23.0,2.0,Dodgers,4Yr,0.0,1998.0
+1665,Randy Keisler,67.0,LHP,24.0,2.0,Yankees,4Yr,-1.5,1998.0
+1666,Sammy Serrano,68.0,C,25.0,2.0,Giants,4Yr,0.0,1998.0
+1667,Alex Hart,69.0,RHP,26.0,2.0,Orioles,HS,0.0,1998.0
+1668,Derek Wathan,70.0,SS,27.0,2.0,Marlins,4Yr,0.0,1998.0
+1669,Jody Gerut,71.0,OF,28.0,2.0,Rockies via Braves,4Yr,7.3,1998.0
+1670,Chris Magruder,72.0,OF,29.0,2.0,Giants via Devil Rays,4Yr,-0.3,1998.0
+1671,Adam Pettyjohn,73.0,LHP,30.0,2.0,Tigers via Diamondbacks,4Yr,-0.8,1998.0
+1672,Josh Hamilton,1.0,OF,1.0,1.0,Devil Rays,HS,28.1,1999.0
+1673,Josh Beckett,2.0,RHP,2.0,1.0,Marlins,HS,35.9,1999.0
+1674,Eric Munson,3.0,C,3.0,1.0,Tigers,4Yr,-1.4,1999.0
+1675,Corey Myers,4.0,SS,4.0,1.0,Diamondbacks,HS,0.0,1999.0
+1676,B.J. Garbe,5.0,OF,5.0,1.0,Twins,HS,0.0,1999.0
+1677,Josh Girdley,6.0,LHP,6.0,1.0,Expos,HS,0.0,1999.0
+1678,Kyle Snyder,7.0,RHP,7.0,1.0,Royals,4Yr,0.4,1999.0
+1679,Bobby Bradley,8.0,RHP,8.0,1.0,Pirates,HS,0.0,1999.0
+1680,Barry Zito,9.0,LHP,9.0,1.0,Athletics,4Yr,32.6,1999.0
+1681,Ben Sheets,10.0,RHP,10.0,1.0,Brewers,4Yr,23.4,1999.0
+1682,Ryan Christianson,11.0,C,11.0,1.0,Mariners,HS,0.0,1999.0
+1683,Brett Myers,12.0,RHP,12.0,1.0,Phillies,HS,14.4,1999.0
+1684,Mike Paradis,13.0,RHP,13.0,1.0,Orioles,4Yr,0.0,1999.0
+1685,Ty Howington,14.0,LHP,14.0,1.0,Reds,HS,0.0,1999.0
+1686,Jason Stumm,15.0,RHP,15.0,1.0,White Sox,HS,0.0,1999.0
+1687,Jason Jennings,16.0,RHP,16.0,1.0,Rockies,4Yr,11.4,1999.0
+1688,Rick Asadoorian,17.0,OF,17.0,1.0,Red Sox via Angels,HS,0.0,1999.0
+1689,Rich Stahl,18.0,LHP,18.0,1.0,Orioles via Cardinals,HS,0.0,1999.0
+1690,Alex Rios,19.0,3B,19.0,1.0,Blue Jays,HS,27.6,1999.0
+1691,Vince Faison,20.0,OF,20.0,1.0,Padres via Dodgers,HS,0.0,1999.0
+1692,Larry Bigbie,21.0,OF,21.0,1.0,Orioles via Rangers,4Yr,2.5,1999.0
+1693,Matt Ginter,22.0,RHP,22.0,1.0,White Sox via Mets,4Yr,0.0,1999.0
+1694,Keith Reed,23.0,OF,23.0,1.0,Orioles via Indians,4Yr,-0.1,1999.0
+1695,Kurt Ainsworth,24.0,RHP,24.0,1.0,Giants,4Yr,-0.3,1999.0
+1696,Mike MacDougal,25.0,RHP,25.0,1.0,Royals via Red Sox,4Yr,3.9,1999.0
+1697,Ben Christensen,26.0,RHP,26.0,1.0,Cubs,4Yr,0.0,1999.0
+1698,Dave Walling,27.0,RHP,27.0,1.0,Yankees,4Yr,0.0,1999.0
+1699,Gerik Baxter,28.0,RHP,28.0,1.0,Padres,HS,0.0,1999.0
+1700,Omar Ortiz,29.0,RHP,29.0,1.0,Padres via Astros,4Yr,0.0,1999.0
+1701,Chance Caple,30.0,RHP,30.0,1.0,Cardinals via Braves,4Yr,0.0,1999.0
+1702,Casey Daigle,31.0,RHP,31.0,1.0,Diamondbacks,HS,-1.2,1999.0
+1703,Jay Gehrke,32.0,RHP,32.0,1.0,Royals,4Yr,0.0,1999.0
+1704,Jeff Heaverlo,33.0,RHP,33.0,1.0,Mariners,4Yr,0.0,1999.0
+1705,Josh Cenate,34.0,LHP,34.0,1.0,Orioles,HS,0.0,1999.0
+1706,Brian West,35.0,RHP,35.0,1.0,White Sox,HS,0.0,1999.0
+1707,Nick Stocks,36.0,RHP,36.0,1.0,Cardinals,4Yr,0.0,1999.0
+1708,Jason Repko,37.0,SS,37.0,1.0,Dodgers,HS,1.2,1999.0
+1709,Colby Lewis,38.0,RHP,38.0,1.0,Rangers,JC,8.6,1999.0
+1710,Jerome Williams,39.0,RHP,39.0,1.0,Giants,HS,3.6,1999.0
+1711,Brad Baker,40.0,RHP,40.0,1.0,Red Sox,HS,0.0,1999.0
+1712,Casey Burns,41.0,RHP,41.0,1.0,Padres,4Yr,0.0,1999.0
+1713,Mike Rosamond,42.0,OF,42.0,1.0,Astros,4Yr,0.0,1999.0
+1714,Jimmy Gobble,43.0,LHP,43.0,1.0,Royals,HS,1.5,1999.0
+1715,Scott Rice,44.0,LHP,44.0,1.0,Orioles,HS,-0.1,1999.0
+1716,Rob Purvis,45.0,RHP,45.0,1.0,White Sox,4Yr,0.0,1999.0
+1717,Chris Duncan,46.0,1B,46.0,1.0,Cardinals,HS,2.8,1999.0
+1718,David Mead,47.0,RHP,47.0,1.0,Rangers,HS,0.0,1999.0
+1719,Casey Fossum,48.0,LHP,48.0,1.0,Red Sox,4Yr,-0.8,1999.0
+1720,Mike Bynum,49.0,LHP,49.0,1.0,Padres,4Yr,-1.5,1999.0
+1721,Brian Roberts,50.0,SS,50.0,1.0,Orioles,4Yr,30.3,1999.0
+1722,Nick Trzesniak,51.0,C,51.0,1.0,Padres,HS,0.0,1999.0
+1723,Carl Crawford,52.0,OF,1.0,2.0,Devil Rays,HS,38.9,1999.0
+1724,Terry Byron,53.0,RHP,2.0,2.0,Marlins,JC,0.0,1999.0
+1725,Brian Sanches,54.0,RHP,3.0,2.0,Royals via Tigers,4Yr,2.6,1999.0
+1726,Jay Perez,55.0,C,4.0,2.0,Astros via Diamondbacks,HS,0.0,1999.0
+1727,Rob Bowen,56.0,C,5.0,2.0,Twins,HS,-0.3,1999.0
+1728,Brandon Phillips,57.0,SS,6.0,2.0,Expos,HS,30.9,1999.0
+1729,Wes Obermueller,58.0,RHP,7.0,2.0,Royals,4Yr,-0.9,1999.0
+1730,Ryan Doumit,59.0,C,8.0,2.0,Pirates,HS,9.2,1999.0
+1731,Ryan Ludwick,60.0,OF,9.0,2.0,Athletics,4Yr,10.5,1999.0
+1732,Kade Johnson,61.0,C,10.0,2.0,Brewers,JC,0.0,1999.0
+1733,J.T. Thomas,62.0,LHP,11.0,2.0,Giants via Mariners,HS,0.0,1999.0
+1734,Jason Cooper,63.0,OF,12.0,2.0,Phillies,HS,0.0,1999.0
+1735,Dan Wright,64.0,RHP,13.0,2.0,White Sox via Orioles,4Yr,-1.2,1999.0
+1736,Ben Broussard,65.0,1B,14.0,2.0,Reds,4Yr,4.4,1999.0
+1737,Bobby Hill,66.0,SS,15.0,2.0,White Sox,4Yr,0.3,1999.0
+1738,Ryan Kibler,67.0,RHP,16.0,2.0,Rockies,HS,0.0,1999.0
+1739,John Lackey,68.0,RHP,17.0,2.0,Angels,JC,37.4,1999.0
+1740,Brennan King,69.0,SS,18.0,2.0,Dodgers via Cardinals,HS,0.0,1999.0
+1741,Mike Snyder,70.0,3B,19.0,2.0,Blue Jays,HS,0.0,1999.0
+1742,Jeremy Ward,71.0,RHP,20.0,2.0,Diamondbacks via Dodgers,4Yr,0.0,1999.0
+1743,Nick Regilio,72.0,RHP,21.0,2.0,Rangers,4Yr,0.1,1999.0
+1744,Neal Musser,73.0,LHP,22.0,2.0,Mets,HS,0.2,1999.0
+1745,Will Hartley,74.0,C,23.0,2.0,Indians,HS,0.0,1999.0
+1746,Jack Taschner,75.0,LHP,24.0,2.0,Giants,4Yr,-0.6,1999.0
+1747,Mat Thompson,76.0,RHP,25.0,2.0,Red Sox,HS,0.0,1999.0
+1748,Mike Mallory,77.0,OF,26.0,2.0,Cubs,HS,0.0,1999.0
+1749,Tommy Winrow,78.0,OF,27.0,2.0,Yankees,HS,0.0,1999.0
+1750,Alberto Concepcion,79.0,C,28.0,2.0,Padres,HS,0.0,1999.0
+1751,Travis Anderson,80.0,RHP,29.0,2.0,Astros,4Yr,0.0,1999.0
+1752,Matt Butler,81.0,RHP,30.0,2.0,Braves,HS,0.0,1999.0
+1753,Josh Pearce,82.0,RHP,31.0,2.0,Cardinals,4Yr,-0.3,1999.0
+1754,Drew Meyer,83.0,SS,32.0,2.0,Dodgers,HS,-0.3,1999.0
+1755,Jake Joseph,84.0,RHP,33.0,2.0,Mets,JC,0.0,1999.0
+1756,Adrian Gonzalez,1.0,1B,1.0,1.0,Marlins,HS,42.7,2000.0
+1757,Adam Johnson,2.0,RHP,2.0,1.0,Twins,4Yr,-1.1,2000.0
+1758,Luis Montanez,3.0,SS,3.0,1.0,Cubs,HS,-1.2,2000.0
+1759,Mike Stodolka,4.0,LHP,4.0,1.0,Royals,HS,0.0,2000.0
+1760,Justin Wayne,5.0,RHP,5.0,1.0,Expos,4Yr,-1.5,2000.0
+1761,Rocco Baldelli,6.0,OF,6.0,1.0,Devil Rays,HS,10.2,2000.0
+1762,Matt Harrington,7.0,RHP,7.0,1.0,Rockies,HS,0.0,2000.0
+1763,Matt Wheatland,8.0,RHP,8.0,1.0,Tigers,HS,0.0,2000.0
+1764,Mark Phillips,9.0,LHP,9.0,1.0,Padres,HS,0.0,2000.0
+1765,Joe Torres,10.0,LHP,10.0,1.0,Angels,HS,0.0,2000.0
+1766,Dave Krynzel,11.0,OF,11.0,1.0,Brewers,HS,0.2,2000.0
+1767,Joe Borchard,12.0,OF,12.0,1.0,White Sox,4Yr,-1.5,2000.0
+1768,Shaun Boyd,13.0,OF,13.0,1.0,Cardinals,HS,0.0,2000.0
+1769,Beau Hale,14.0,RHP,14.0,1.0,Orioles,4Yr,0.0,2000.0
+1770,Chase Utley,15.0,2B,15.0,1.0,Phillies,4Yr,65.4,2000.0
+1771,Billy Traber,16.0,LHP,16.0,1.0,Mets via Mariners,4Yr,-0.7,2000.0
+1772,Ben Diggins,17.0,RHP,17.0,1.0,Dodgers,4Yr,-0.7,2000.0
+1773,Miguel Negron,18.0,OF,18.0,1.0,Blue Jays,HS,0.0,2000.0
+1774,Sean Burnett,19.0,LHP,19.0,1.0,Pirates,HS,6.1,2000.0
+1775,Chris Bootcheck,20.0,RHP,20.0,1.0,Angels via Athletics,4Yr,-1.5,2000.0
+1776,Boof Bonser,21.0,RHP,21.0,1.0,Giants,HS,-0.5,2000.0
+1777,Phil Dumatrait,22.0,LHP,22.0,1.0,Red Sox,JC,-1.8,2000.0
+1778,David Espinosa,23.0,SS,23.0,1.0,Reds,HS,0.0,2000.0
+1779,Blake Williams,24.0,RHP,24.0,1.0,Cardinals via Rangers,4Yr,0.0,2000.0
+1780,Scott Heard,25.0,C,25.0,1.0,Rangers via Mets,HS,0.0,2000.0
+1781,Corey Smith,26.0,SS,26.0,1.0,Indians,HS,0.0,2000.0
+1782,Rob Stiehl,27.0,RHP,27.0,1.0,Astros,JC,0.0,2000.0
+1783,Dave Parrish,28.0,C,28.0,1.0,Yankees,4Yr,0.0,2000.0
+1784,Adam Wainwright,29.0,RHP,29.0,1.0,Braves via Diamondbacks,HS,39.3,2000.0
+1785,Scott Thorman,30.0,3B,30.0,1.0,Braves,HS,-1.0,2000.0
+1786,Aaron Heilman,31.0,RHP,31.0,1.0,Twins,4Yr,1.8,2000.0
+1787,Tripper Johnson,32.0,RHP,32.0,1.0,Orioles,HS,0.0,2000.0
+1788,Dustin McGowan,33.0,RHP,33.0,1.0,Blue Jays,HS,1.8,2000.0
+1789,Dustin Moseley,34.0,RHP,34.0,1.0,Reds,HS,0.5,2000.0
+1790,Tyrell Godwin,35.0,OF,35.0,1.0,Rangers,4Yr,-0.1,2000.0
+1791,Bobby Keppel,36.0,RHP,36.0,1.0,Mets,HS,0.3,2000.0
+1792,Derek Thompson,37.0,LHP,37.0,1.0,Indians,HS,0.2,2000.0
+1793,Kelly Johnson,38.0,SS,38.0,1.0,Braves,HS,17.8,2000.0
+1794,Chad Hawkins,39.0,RHP,39.0,1.0,Rangers,4Yr,0.0,2000.0
+1795,Aaron Herr,40.0,SS,40.0,1.0,Braves,HS,0.0,2000.0
+1796,Jason Stokes,41.0,1B,1.0,2.0,Marlins,HS,0.0,2000.0
+1797,Tagg Bozied,42.0,1B,2.0,2.0,Twins,4Yr,0.0,2000.0
+1798,Bobby Hill,43.0,SS,3.0,2.0,Cubs,,0.3,2000.0
+1799,Mike Tonis,44.0,C,4.0,2.0,Royals,4Yr,-0.1,2000.0
+1800,Peter Bauer,45.0,RHP,5.0,2.0,Blue Jays via Expos,4Yr,0.0,2000.0
+1801,Dane Sardinha,46.0,C,6.0,2.0,Reds via Devil Rays,4Yr,-1.0,2000.0
+1802,Jason Young,47.0,RHP,7.0,2.0,Rockies,4Yr,-1.0,2000.0
+1803,Chad Petty,48.0,LHP,8.0,2.0,Tigers,HS,0.0,2000.0
+1804,Xavier Nady,49.0,3B,9.0,2.0,Padres,4Yr,3.8,2000.0
+1805,Jared Abruzzo,50.0,C,10.0,2.0,Angels,HS,0.0,2000.0
+1806,Bubba Nelson,51.0,RHP,11.0,2.0,Braves via Brewers,HS,0.0,2000.0
+1807,Tim Hummel,52.0,SS,12.0,2.0,White Sox,4Yr,-1.3,2000.0
+1808,Chris Narveson,53.0,LHP,13.0,2.0,Cardinals,HS,0.6,2000.0
+1809,J.D. Durbin,54.0,RHP,14.0,2.0,Twins via Orioles,HS,-0.5,2000.0
+1810,Brian Tallet,55.0,LHP,15.0,2.0,Indians via Phillies,4Yr,0.3,2000.0
+1811,Jason Bourgeois,56.0,SS,16.0,2.0,Rangers via Mariners,HS,0.0,2000.0
+1812,Joel Hanrahan,57.0,RHP,17.0,2.0,Dodgers,HS,4.7,2000.0
+1813,Dominic Rich,58.0,2B,18.0,2.0,Blue Jays,4Yr,0.0,2000.0
+1814,David Beigh,59.0,RHP,19.0,2.0,Pirates,HS,0.0,2000.0
+1815,Freddie Bynum,60.0,SS,20.0,2.0,Athletics,JC,-1.3,2000.0
+1816,Lance Niekro,61.0,3B,21.0,2.0,Giants,4Yr,0.4,2000.0
+1817,Manny Delcarmen,62.0,RHP,22.0,2.0,Red Sox,HS,3.9,2000.0
+1818,Ryan Snare,63.0,LHP,23.0,2.0,Reds,4Yr,-0.2,2000.0
+1819,Randy Truselo,64.0,RHP,24.0,2.0,Rangers,HS,0.0,2000.0
+1820,Matt Peterson,65.0,RHP,25.0,2.0,Mets,HS,0.0,2000.0
+1821,Mark Folsom,66.0,OF,26.0,2.0,Indians,HS,0.0,2000.0
+1822,Chad Qualls,67.0,RHP,27.0,2.0,Astros,4Yr,6.3,2000.0
+1823,Danny Borrell,68.0,LHP,28.0,2.0,Yankees,4Yr,0.0,2000.0
+1824,Mike Schultz,69.0,RHP,29.0,2.0,Diamondbacks,4Yr,0.0,2000.0
+1825,Bryan Digby,70.0,RHP,30.0,2.0,Braves,HS,0.0,2000.0
